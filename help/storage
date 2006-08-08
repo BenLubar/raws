@@ -1,0 +1,32 @@
+storage
+[TITLE]The Manual:  Storage[/TITLE]
+If you aren't careful, your fortress can become a cluttered and inefficient mess.
+In fact, you'll find one of your principal roles in managing the fortress is to get food, materials and finished goods to
+move around efficiently.
+[B][B]
+[C:7:0:1]Stockpiles[C:7:0:0]
+[B]
+The main method for moving objects around is the designation of stockpiles.  A stockpile has certain object types associated to it,
+and any object that isn't already stored will be brought to a free space in the pile when a dwarf with the proper hauling profession
+has some free time.
+[B]
+Using the mastery option, you can make piles take objects from other piles to create a flow of goods throughout
+the fortress.
+[B]
+[LINK:data\help\menu_stockpiles]Designating Stockpiles[/LINK]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[B][B]
+[C:7:0:1]Bins[C:7:0:0]
+[B]
+Stockpiles fill up quickly.  In order to consolidate objects and save space, dwarves use bins.  Bins are always made of wood (cheap and light!), and
+you can order their construction at the carpenter's workshop.
+[B]
+Once you make a bin, the dwarves will move it to a furniture stockpile.  The next time a bin is needed, a dwarf will place an object in the bin, and then the bin will be moved to the proper stockpile.  All you have to do is provide a consistent supply of bins.
+[B][B]
+[C:7:0:1]Barrels[C:7:0:0]
+[B]
+Barrels are exactly like bins, but they are used for food.  Food in barrels is less susceptible to pests, though barrels are not immune to their clever and persistent vermin natures.
+[B][B]
+[C:7:0:1]Personal Storage[C:7:0:0]
+[B]
+Dwarves will amass personal property over time, especially when the coin economy begins in the middle game.  If a dwarf has a room, you'll soon find that personal possessions cover the floor.  In order to give the dwarf more storage space, consider placing a chest and a cabinet within the room.  Cabinets are used for storing clothes, and chests are used to store everything else.  Certain important dwarves will require weapon and armor racks in their rooms as well.

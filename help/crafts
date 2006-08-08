@@ -1,0 +1,97 @@
+crafts
+[TITLE]The Manual:  Making Crafts[/TITLE]
+To the dwarves, all of this mining would pointless unless the end result is a fortress filled with treasure.
+Once you've mined out some stone, you'll be ready to make crafts.  You can also make objects out of wood,
+bone, shell, glass, silk[.][.]. whatever your dwarves can get their hands on.  You can also decorate existing objects
+with these materials.
+[B]
+In order to make crafts, you need the following:
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the proper profession
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] The proper workshop
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] The proper materials
+[C:7:0:0]
+[B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[LINK:data\help\menu_building_tasks]Creating Building Tasks[/LINK]
+[B]
+Now let's discuss the individual materials.
+[B][B]
+[C:7:0:1]Stone[C:7:0:0]
+[B]
+Stone is simple.  Use the mason or craftsdwarf's workshop to assign jobs.  Stone
+comes in three colors.  The light and dark rocks are rare and more valuable.  Obsidian can be used to make
+short swords.
+[B][B]
+[C:7:0:1]Metal[C:7:0:0]
+[B]
+Metal is more valuable than stone, but also harder to find and process.  The ore that you find must
+be refined in at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge.
+[B]
+These processes require fuel.  You can use charcoal made from food, or coal fuel from coal refined from the mountain.
+[B]
+A metalsmith's forge requires an anvil.  You'll obtain your first anvil in the summer, at which point you can make
+additional anvils on your own.
+[B][B]
+[C:7:0:1]Gems[C:7:0:0]
+[B]
+Gems are rare and valuable.  When you mine them from the mountain, they are initially "rough".  Rough gems are unfinished stones
+that need to be cut by a jeweler.  Build a jeweler's workshop to assign these jobs.
+[B]
+Rarely, the gem cutter will be inspired and make
+a large finished gem or gem crafts.  Most of the time, you'll obtain small gems.  These objects are valuable in their own right, but can also be used to encrust other objects.
+[B][B]
+[C:7:0:1]Wood[C:7:0:0]
+[B]
+Wood is easy to obtain and requires no processing.  It is also an early source of fuel and can be used to make lye.
+Cut wood by designating trees for logging outside.  You can then use the logs at the carpenter's workshop, the bowyer's workshop and
+the wood furnace.  Keep in mind that wood is the only material that can be used for beds, barrels, bins and buckets, so it's good to keep
+a steady supply of logs coming in from outdoors.
+[B]
+[LINK:data\help\menu_designations]Designations[/LINK]
+[B][B]
+[C:7:0:1]Bone and Shell[C:7:0:0]
+[B]
+Bone and shell are the debris of eating and butchery, but they can be used to make crafts or enhance existing objects as well.  This work
+is done at the craftsdwarf's workshop.
+[B][B]
+[C:7:0:1]Leather[C:7:0:0]
+[B]
+Raw skins are obtained from the butcher's shop any time a corpse is butchered, and these can be processed at the tanner's workshop to make leather.
+The butcher and tanner assign jobs automatically.
+[B]
+Leather can then be used to make clothing, armor, backpacks, quivers, bags and crafts.
+Soldiers use backpacks to hold food so that they can stay on duty longer.  The value of leather depends on the creature.
+[B][B]
+[C:7:0:1]Cloth[C:7:0:0]
+[B]
+Cloth is made at a loom from thread.  Thread is obtained from plants which have been processed at the farmer's workshop.  Cloth can be used at the
+clothes maker's shop to create clothes, crafts or bags.
+[B][B]
+[C:7:0:1]Silk[C:7:0:0]
+[B]
+Silk is like the cloth made from plant, but generally more valuable.  You'll occasionally find webs in your fortress, and if you have a loom,
+a task will appear automatically which lets the dwarves collect these webs.  Once you have silk cloth from the loom, you can use it like standard
+cloths.
+[B][B]
+[C:7:0:1]Glass[C:7:0:0]
+[B]
+Glass is a fairly valuable material and can be a decent early trade good.  If you have a bag, you can create an order to collect sand at a
+glass furnace.  Then you can make green glass goods at the glass furnace.
+[B]
+Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.
+Pearlash is potash which has been baked in a kiln.  As described in the paragraph on fertilizing farms, potash is obtained by evaporating
+lye water, and lye water is obtained from soaking wood ash at the ashery.
+[B]
+You can also substitute sand for rock crystal in the clear glass recipe to make crystal glass, which is quite valuable.
+[B][B]
+[C:7:0:1]Soap[C:7:0:0]
+[B]
+Soap is a fairly valuable commodity, and one of the key ingredients is animal fat, which will otherwise rot away in your refuse piles.
+First, you need to create an alchemist's lab.  Read about clear glass above to figure out how to make the glass vials you'll need
+for the lab.  Once you have the lab, lye and some rendered fat, you can produce soap.  The value of soap depends on the creature.
+Unrotten fat can be rendered in the kitchen.

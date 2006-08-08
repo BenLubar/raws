@@ -1,0 +1,18 @@
+menu_civlist
+[TITLE]The Manual:  Civilizations[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_CIVLIST] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you have a list of the civilizations.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Depending on the number of civilizations you've located, there will be two columns of [C:2:1:1]P[C:7:0:0]s and [C:6:4:1]W[C:7:0:0]s.
+The first column indicates the state of peace/war with your civilization, and the second relates the currently selected civilization to
+the other civilizations.
+[B]
+Press [IKEY:SELECT] to view a civilization.
+[B]
+When you are viewing a specific civilization, you can see that civilization's important figures, trade statistics and agreements.

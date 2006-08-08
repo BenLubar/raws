@@ -1,0 +1,40 @@
+menu_status_justice
+[TITLE]The Manual:  Dwarven Justice[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If you have a sheriff or captain of the guard, press [IKEY:D_STATUS] from the main view, scroll to "Justice" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can view a list of all of the fortress's criminals.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+At the top right, you can see a list of how many justice buildings you have.  These are cages and chains that have the justice status turned on.
+[B]
+[LINK:data/help/rooms]Rooms (More on Cages and Chains Here)[/LINK]
+[B]
+For each criminal, you'll see a list of crimes, and possibly a sentence and an assigned officer.
+[B]
+Possible punishments include incarceration in a justice building, being beaten or receiving a fixed number of strokes from the hammer.
+[B][B]
+[C:7:0:1]Dwarven Justice and You[C:7:0:0]
+[B]
+Many crimes are committed by dwarves throwing tantrums.  However, crimes can occur when you break a mandate.  When a mandate is broken, the
+offended noble blames a related dwarf.  So if you fail to make metal goods, a metalsmith is charged with violation of a production order.  If you
+export a prohibited item, the dwarf that brought it to the trade depot is charged.
+[B]
+Dwarven justice can be very harsh, especially if the offended noble has a high rank.  It is therefore very important to obey mandates given out
+by the nobles, lest your prized metalsmith be subjected to five hammerstrikes.
+[B][B]
+[C:7:0:1]The Hammerer[C:7:0:0]
+[B]
+Hammering is the ultimate form of dwarven punishment.  The criminal is brought to a justice chain by the Hammerer and restrained.
+The location of the hammerstrikes is calculated by the Hammerer, determined by an ancient formula.  Dwarves do not gather and spectate at such events.
+[B]
+Given such a sentence, death is not uncommon.  The Hammerer is not swayed by the
+pleas of a friend or even his or her own spouse at the time of the punishment, although the Hammerer is not immune to later anguish and can sink into bitter depression.
+[B]
+Particularly egregious crimes are punished by execution.  Typically, an execution is a sentence of 50 to 100 hammerstrikes.  If the condemned dwarf somehow
+survives, no further punishment is carried out and the dwarf can rejoin society to the extent that they are able.
+[B]
+This is never known to have occurred.

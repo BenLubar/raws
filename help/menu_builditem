@@ -1,0 +1,27 @@
+menu_builditem
+[TITLE]The Manual:  View Building Items[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDITEM] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+This menu allows you to look inside buildings.  A cursor will appear on the screen.  Use [IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT][IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT] to move the cursor.
+[B]
+The contents of the closest building are displayed, along with instructions on how to select items.  You can view items from this menu, and you can
+order the removal of the building.  You can also view the progress of building construction from this menu.
+[B]
+Depending on the building, some special symbols can appear to give you more information.
+[B]
+[C:3:0:1]TSK[C:7:0:0] A task is associated to this object.[R]
+[C:7:0:1][[B]][C:7:0:0] The object is part of the building.[R]
+[C:6:0:1][[T]][C:7:0:0] The object is a trade good.[R]
+[C:2:0:1][[A]][C:7:0:0] This is an animal caught in a trap.[R]
+[C:6:0:0][[B]][C:7:0:0] This object is bait in a trap.[R]
+[C:5:0:1][[L]][C:7:0:0] This object is loaded in a siege engine.[R]
+[C:0:0:1][[B]][C:7:0:0] The object is enclosed in a coffin.[R]
+[C:1:0:1][[B]][C:7:0:0] The object is associated to the building in another way.
+[B]
+If the building is cluttered, that information will be displayed at the top right of the menu.
+[B]
+[LINK:data\help\building_clutter]Building Clutter[/LINK]

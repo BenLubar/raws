@@ -1,0 +1,11 @@
+menu_look
+[TITLE]The Manual:  Looking Around[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_LOOK] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Once you enter look mode, you'll have the standard cursor to move around, and anything in the cursor's square will be listed on the right.
+[B]
+If you highlight a unit or item on the right and press [IKEY:SELECT], you will be taken to the unit profile or item descriptions, respectively.

@@ -1,0 +1,16 @@
+menu_status_animals
+[TITLE]The Manual:  Animals[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_STATUS] from the main view, scroll to "Animals" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+This lists all of the animals in your fortress.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+You can make tame animals available as pets here.  Some dwarves like to keep a certain type of animal as a pet.  You can view pet preferences in the unit profile.
+[B]
+[LINK:data/help/unit_profile]Unit Profiles[/LINK]
+[B]
+If an animal is not somebody's pet, you can also designate it to be slaughtered.  The slaughter occurs at the butcher's shop.

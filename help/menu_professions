@@ -1,0 +1,12 @@
+menu_professions
+[TITLE]The Manual:  Setting Professions[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_VIEWUNIT] from the main view and move to the desired unit.
+After that, press [IKEY:UNITVIEW_PRF] followed by [IKEY:UNITVIEW_PRF_PROF].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+There are many pages.  Scroll with [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEDOWN][IKEY:SECONDSCROLL_PAGEUP].
+[B]
+Select a profession with [IKEY:SELECT].  A dwarf can have several professions.

@@ -1,0 +1,38 @@
+menu_stockpiles
+[TITLE]The Manual:  Stockpiles[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_STOCKPILES] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Your dwarves use stockpiles to store all of your finished, intermediate and raw objects.
+[B]
+[LINK:data\help\storage]More on Storage[/LINK]
+[B]
+When you get to the stockpile menu, you'll be faced by several stockpile options.  Each of these stockpile
+types holds different kinds of objects.
+[B]
+To place a stockpile, press [IKEY:SELECT] to designate one corner, move the cursor, and press [IKEY:SELECT] again to finish.
+Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of stockpile per square, and they cannot be placed on buildings.
+[B]
+Once you create a stockpile, you can set it to take goods from another stockpile.
+[B]
+[LINK:data\help\menu_building_stockpile]Individual Stockpile Menu[/LINK]
+[B]
+Some stockpiles merit a bit of discussion.
+[B][B]
+[C:7:0:1]Mining Stockpile[C:7:0:0]
+[B]
+A mining stockpile holds both ore and stone.  It can be a convenient way to clear out tunnels.  Then you can set up a stone pile near your mason
+and an ore pile near your smelter, and set these piles to take from the mining pile to create a flow of stone and ore.
+[B][B]
+[C:7:0:1]Refuse Stockpile[C:7:0:0]
+[B]
+This holds anything inedible that can rot, as well as tattered clothing, bones and shells.
+It's important to get refuse above ground before it starts to stink and bother your dwarves.
+You'll notice purple clouds in your cave if something is rotting indoors.
+[B][B]
+[C:7:0:1]Animal Stockpile[C:7:0:0]
+[B]
+This holds live animals in cages, not butchered animals.  Meat goes to the food pile.

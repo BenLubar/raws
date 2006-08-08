@@ -1,0 +1,15 @@
+r_main
+[TITLE]Dwarf Fortress:  The Manual[/TITLE]
+You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.
+And remember:
+[B]
+[C:2:0:1]Last time you lost it was fun, and it'll be fun this time too![C:7:0:0]
+[B]
+[LINK:data\help\text_viewer]Text Viewers[/LINK]
+[LINK:data\help\menus]The Many Menus[/LINK]
+[LINK:data\help\icons]Icons[/LINK]
+[LINK:data\help\tables]Tables[/LINK]
+[B]
+[LINK:data\help\r_intro]Reclaim Outpost Introduction (new!)[/LINK]
+[LINK:data\help\r_setup_game]Preparing For The Expedition (new!)[/LINK]
+[LINK:data\help\outpost]Your First Outpost[/LINK]

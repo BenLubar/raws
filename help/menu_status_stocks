@@ -1,0 +1,14 @@
+menu_status_stocks
+[TITLE]The Manual:  Stocks[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If you have a bookkeeper, press [IKEY:D_STATUS] from the main view, scroll to "Stocks" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can view every single object on the map.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+There are two modes.  One compresses the item list for convenience, and one displays the items individually in a list.  When you are in
+the individual list, you can view an object's description or zoom to its location on the map.  You can also designate metal items
+to be melted down here.  Once you designate an object, you need to place a melting job at a smelter.

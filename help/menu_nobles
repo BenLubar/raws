@@ -1,0 +1,55 @@
+menu_nobles
+[TITLE]The Manual:  Nobles[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If you have a noble, press [IKEY:D_NOBLES] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+These are the important figures in your fortress.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Press [IKEY:SELECT] to view a noble's profile.  You can get specifics about requirements, demands and mandates here.
+[B]
+[LINK:data\help\unit_profile]Unit Profiles[/LINK]
+[B]
+The nobles are ordered by their rank.
+[B]
+[LINK:data\help\table_nobles]Obtaining and Using Nobles[/LINK]
+[B]
+On the right, you'll see three categories, which will now be described.
+[B][B]
+[C:7:0:1]Requirements[C:7:0:0]
+[B]
+Nobles have required rooms and furniture.  The color of [[REQUIREMENT]] refers to the state of the requirements:
+[B]
+[C:7:0:1][[REQUIREMENT]][C:7:0:0] All requirement met.[R]
+[C:6:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is only partially met.[R]
+[C:4:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is being completely ignored.[R]
+[C:0:0:1][[REQUIREMENT]][C:7:0:0] No requirements.
+[B]
+Nobles can become angry or sad if their requirements are not met, but there are no formal legal repercussions.
+[B][B]
+[C:7:0:1]Demands[C:7:0:0]
+[B]
+Nobles occasionally demand additional furnishings.  The color of [[DEMAND]] refers to the state of the demands:
+[B]
+[C:7:0:1][[DEMAND]][C:7:0:0] All demands met.[R]
+[C:6:0:0][[DEMAND]][C:7:0:0] At least one demand is not met, but you have time.[R]
+[C:6:0:1][[DEMAND]][C:7:0:0] At least one demand is running out of time.[R]
+[C:4:0:1][[DEMAND]][C:7:0:0] At least one demand failure is being noticed by the noble.[R]
+[C:0:0:1][[DEMAND]][C:7:0:0] No demands at present.
+[B]
+Nobles can become angry or sad if their demands are not met, but there are no formal legal repercussions.
+[B][B]
+[C:7:0:1]Mandates[C:7:0:0]
+[B]
+Nobles also have the power to make formal legal mandates.  The color of [[MANDATE]] refers to the state of the mandates:
+[B]
+[C:7:0:1][[MANDATE]][C:7:0:0] All mandates are standing restrictions, like export mandates.[R]
+[C:6:0:0][[MANDATE]][C:7:0:0] At least one mandate is timed, but you have plenty left.[R]
+[C:6:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is at least half-way to expiration.[R]
+[C:4:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is about to expire.[R]
+[C:0:0:1][[MANDATE]][C:7:0:0] No mandates at present.
+[B]
+[LINK:data\help\menu_status_justice]Dwarven Justice[/LINK]

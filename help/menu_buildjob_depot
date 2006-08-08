@@ -1,0 +1,18 @@
+menu_buildjob_depot
+[TITLE]The Manual:  Trade Depot Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a trade depot.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+If merchants are coming, you can bring goods to the trade depot.
+[B]
+If merchants have arrived and unloaded their goods, you can trade with them.
+[B]
+When trading, you select goods on both sides of the partition.  Then you can trade.
+The merchant will give you feedback.
+[B]
+You can seize goods from a merchant.  This will cause tensions between your civilizations.
+[B]
+You can offer goods to a merchant.  This will smooth over tensions somewhat and generally improve relations.

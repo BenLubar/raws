@@ -1,0 +1,19 @@
+menu_status_prices
+[TITLE]The Manual:  Prices[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If accounts are active, press [IKEY:D_STATUS] from the main view, scroll to "Prices" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can view the relative prices of objects.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Prices are displayed as a percentage.  These are originally set by the bookkeeper corresponding to item availability, but occasionally nobles
+will tweak prices to make objects they like harder for peasants to buy.  Produce more of an object or material to make it cheaper.
+[B]
+If no prices are displayed for a given object type, this means that the prices are all at standard levels, or the object is completely unavailable for purchase.
+[B]
+You can view an individual items price by viewing its description (from the Stocks screen for instance).
+[B]
+[LINK:data/help/menu_status_stocks]Stocks[/LINK]

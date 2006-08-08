@@ -1,0 +1,15 @@
+menu_buildjob_farmplot
+[TITLE]The Manual:  Farm Plot Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a farm plot.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can select which crop to plant in the farm plot each season.
+There is no reason to let a field stand fallow, since the mud is refreshed each year.
+Prepare multiple plots to plant more than one crop.
+[B]
+If a crop is red, it is known that this is a bad time of the season to plant it.
+[B]
+[LINK:data/help/food]More on Food[/LINK]

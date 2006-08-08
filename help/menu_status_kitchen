@@ -1,0 +1,14 @@
+menu_status_kitchen
+[TITLE]The Manual:  Kitchen Preferences[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_STATUS] from the main view, scroll to "Kitchen" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can set whether or not different kinds of food are cooked or brewed.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Seeds are not cooked by default, but you might find yourself cooking seeds if you have more than enough for farming.
+[B]
+[LINK:data/help/food]More on Food[/LINK]

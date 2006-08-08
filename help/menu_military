@@ -1,0 +1,31 @@
+menu_military
+[TITLE]The Manual:  Military Screen[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_MILITARY] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you'll see a list of all your dwarves, with the soldiers listed first.  The fortress and castle guard will be listed last.
+[B]
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+At first, each dwarf will be in its own named squad.  Use [IKEY:SELECT] to select a commander.  Subsequent presses while other dwarves are
+selected will place them under the command of the first dwarf selected.
+[B]
+Certain dwarves will not submit to the command of other, lesser dwarves.
+[B]
+Press [IKEY:MILITARY_VIEW] to view the squad settings for an active regular soldier.
+[B]
+The most important of these is "standing down" versus "on duty".  A soldier that is standing down will train.  A dwarf that is on duty will stand at its
+station point or patrol its designated route, only taking time to eat, drink, sleep and rest if necesssary.
+[B]
+Allow your soldiers to carry more food and water if you don't want them to desert their posts as often.  Force them to sleep on the ground if you want the post maintained at all times.
+[B]
+Dwarves that have been on duty for a long time will grumble.  Monitor your dwarves' thoughts by viewing their profiles.
+[B]
+[LINK:data/help/unit_profile]Unit Profiles[/LINK]
+[B]
+You can also set weapon preferences from the military screen.  The effects of these preferences are discussed in more detail in the soldier preferences section.
+[B]
+[LINK:data/help/menu_soldier_prefs]Soldier Preferences[/LINK]

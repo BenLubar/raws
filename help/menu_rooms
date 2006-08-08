@@ -1,0 +1,65 @@
+menu_rooms
+[TITLE]The Manual:  Creating Rooms[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to one of the buildings discussed below.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Many buildings allow you to create rooms.  Many other buildings are "masterable" by a room.  For instance,
+if you place a chest in a bedroom, that chest will be associated to that bedroom, and the occupant of the bedroom will use it for storage.
+[B]
+You create a room by selecting the appropriate option from the menu, and then sizing the room.  You'll see flashing [C:3:0:1]X[C:7:0:0]s.
+These are the floor plan of the room.
+[B]
+If you are making rooms for individual dwarves to use, it is best for them to have wall/door/window boundaries,
+and for them not to be shared with other rooms.
+[B]
+Several buildings can be used to create rooms:
+[B][B]
+[C:7:0:1]Bed[C:7:0:0]
+[B]
+Use beds to create rooms for dwarves to sleep in, or a barracks for soldiers to sleep in.  Beds that are not set as rooms are used
+by homeless dwarves and for medical care.
+[B][B]
+[C:7:0:1]Table[C:7:0:0]
+[B]
+Use tables to create dining rooms.  Once a dining room is created, you can designate it as a meeting hall.  Creating a number of meeting halls
+as your fortress grows is a good way to get your dwarves to make new friends.  They will also organize parties in meeting halls.
+[B][B]
+[C:7:0:1]Chair[C:7:0:0]
+[B]
+Use chairs to create offices and throne rooms.  Most dwarves won't need one, but certain nobles and administrators want them.
+[B][B]
+[C:7:0:1]Coffin[C:7:0:0]
+[B]
+Place coffins for your dwarves to be buried in.  If they are set on "general burial", any needy corpse will be placed in the coffin.  Certain nobles
+require tombs to be buried in.  This is the room that you drag out, and then assign to the noble prior to death.  If a dwarf has a tomb, they will
+keep their possessions after death and they'll be moved to the tomb.  Otherwise all possessions will revert to the fortress.
+[B][B]
+[C:7:0:1]Well[C:7:0:0]
+[B]
+Wells can be made into meeting hall rooms.
+[B][B]
+[C:7:0:1]Cage[C:7:0:0]
+[B]
+Cages can be used either for Dwarven Justice or for zoos.  Any cage or chain mastered by a cage or chain is joined to the corresponding zoo or dungeon.
+[B]
+The officer in charge of a criminal will place prisoners in any free justice building.  You must designate creatures for a zoo on your own.
+[B]
+If you are using an appropriate cage, you can designate it as an aquarium.  It will then be filled with water by a free dwarf, and you can place
+live aquatic creatures inside for the viewing pleasure of passersby.
+[B][B]
+[C:7:0:1]Chain[C:7:0:0]
+[B]
+Chains are as cages, except that cannot be made into aquariums and they can only have one occupant.
+[B][B]
+[C:7:0:1]Statue[C:7:0:0]
+[B]
+A statue can be made into a sculpture garden.  These can be kept public or assigned to dwarves for private use.  Any building mastered by
+a sculpture garden gives bonuses to the art-appreciation assessments that dwarves make as they wander your fortress.
+[B][B]
+[C:7:0:1]Archery Target[C:7:0:0]
+[B]
+You need to create a room from an archery target to tell potentially marksdwarves where to stand.  The room doesn't need to be large, but
+they should stand a few squares away from the target.

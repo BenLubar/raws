@@ -1,0 +1,98 @@
+food
+[TITLE]The Manual:  Obtaining Food[/TITLE]
+Dwarves like to eat, and there are many ways to serve them their favorite dishes. These include
+gathering plants, fishing, hunting, butchering livestock and farming.
+[B][B]
+[C:7:0:1]Gathering Plants[C:7:0:0]
+[B]
+Gathering plants is a fairly inefficient way to get food, but you'll have to do it sometimes, if
+only to get seeds that you can use for farming later.  In order to gather plants you need:
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Plant Gathering profession
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A bush in a designated plant gathering area that such a dwarf can access
+[C:7:0:0]
+[B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[LINK:data\help\menu_designations]Designations[/LINK]
+[B][B]
+[C:7:0:1]Fishing[C:7:0:0]
+[B]
+Fishing is a fairly easy way to get some initial food, but you'll find yourself running out of fish in larger fortresses.
+In order to fish you need:
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Fishing profession
+[C:7:0:0]
+[B]
+For technical help with these matters, follow this link:
+[B]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[B][B]
+[C:7:0:1]Hunting[C:7:0:0]
+[B]
+Hunting is another way to get some initial food, but it will put the life of your hunter at risk.
+In order to hunt you need:
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Hunting profession, preferably armed
+[C:7:0:0]
+[B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[LINK:data\help\menu_soldier_prefs]Setting Soldier Preferences[/LINK]
+[B][B]
+[C:7:0:1]Butchering Livestock[C:7:0:0]
+[B]
+You can slaughter animals that aren't pets, and you can butcher any animal corpse that doesn't belong to a pet.
+In order to butcher a corpse you need:
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Butchery profession
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] A Butcher's Shop
+[B]
+[C:6:0:1][CHAR:15][C:2:0:1] An accessible unrotten animal corpse that wasn't once a pet
+[C:7:0:0]
+[B]
+To slaughter animals, designate them for slaughter from the Animals screen.
+[B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[LINK:data\help\menu_make_buildings]Creating Buildings[/LINK]
+[LINK:data\help\menu_status_animals]The Animals Screen[/LINK]
+[B][B]
+[C:7:0:1]Farming[C:7:0:0]
+[B]
+Farming is the most reliable way to obtain food, but it is also the most complicated to prepare.
+To get started, you must place a farm plot inside your fortress on any mud that you happen to find.
+Dwarves with the Farming (Fields) profession will plant seeds, and all dwarves help with the harvest.
+[B]
+Should you find a water source, you can divert the water using channels and floodgates to control
+which squares become muddy.  You cannot farm in channels, so you need to understand how to keep the
+water from flooding your whole fortress while still getting enough squares muddy.
+[B]
+[LINK:data\help\floodgates]Notes on Floodgates[/LINK]
+[B]
+Some plants that you farm aren't immediately edible, but can be processed at a mill or farmer's workshop to make
+flour, sugar, syrup, spices or thread for cloth-making.
+[B]
+You can greatly increase your farm output by using potash as a fertilizer.
+Potash is obtained from evaporating lye water, and lye water is obtained from soaking wood ash.  These jobs
+are carried out at the Ashery.  The Making Crafts section of the First Outpost tutorial will discuss how to assign jobs.
+[B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_make_buildings]Creating Buildings[/LINK]
+[LINK:data\help\menu_building_farm_plot]The Farm Plot Menu[/LINK]
+[B][B]
+[C:7:0:1]Preparing Food[C:7:0:0]
+[B]
+Each dwarf has preferred foods, but they only eat one piece of food when they are hungry.  In order to maximize the chance that a dwarf can find
+a piece of food that they really enjoy, it is important to use a kitchen to prepare food.  This mixes the food types together.  It also allows a dwarven
+cook the opportunity to apply their craft to the ingredients and produce higher quality foods.  The Making Crafts section of the First Outpost tutorial will cover job assignment.
+[B]
+For technical help with these matters, follow this link:
+[B]
+[LINK:data\help\menu_status_kitchen]The Kitchen Screen[/LINK]

@@ -1,0 +1,10 @@
+menu_buildjob_shop
+[TITLE]The Manual:  Shop Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If accounts are active, press [IKEY:D_BUILDJOB] from the main view and move to a shop.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Shops are run by their shopkeeper.  You do not have any control over what happens here, but you
+can view the status of the shop here.

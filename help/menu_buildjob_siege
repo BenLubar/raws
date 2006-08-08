@@ -1,0 +1,13 @@
+menu_buildjob_siege
+[TITLE]The Manual:  Siege Engine Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a siege engine.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+You can orient a siege engine and set its firing state.  Siege engines require ammunition.  Ballistas require specially constructed arrows.
+Any stone will work in a catapult.
+[B]
+Siege engines work best against large armies since the firing is imprecise, although having a ballista set to
+fire down a hallway is an option that can provide some relief from invading forces that enter your fortress.

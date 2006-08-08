@@ -1,0 +1,14 @@
+menu_buildjob_channel
+[TITLE]The Manual:  Channel Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a channel.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Channels are selectable buildings until they are linked to a river.  Adjacent channels are joined into one large building.
+[B]
+The principal use of channels is to connect them to floodgates and move water from rivers to farm or form barriers.
+[B]
+However, channels can also be filled with water by bucket.  These channels are designated "ponds" and you can place aquatic
+creatures that you've captured in them to sooth and entertain your dwarves.

@@ -1,0 +1,19 @@
+menu_buildjob_lever
+[TITLE]The Manual:  Lever Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a lever (or pressure plate).
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+The lever menu is a standard menu, but the tasks are unusual.  The lever (or pressure plate) can be linked to one or
+more buildings.  Pulling the lever (or stepping on the pressure plate) causes the effect to be trigger.  Linking a
+building requires two mechanisms and takes some time.
+[B]
+The effects are as follows:
+[B]
+[C:2:0:1]Bridge[C:7:0:0][LOCX:20]Raise/lower[R]
+[C:2:0:1]Cage/Chain[C:7:0:0][LOCX:20]Release occupants[R]
+[C:2:0:1]Door[C:7:0:0][LOCX:20]Open/close (otherwise unmoveable)[R]
+[C:2:0:1]Floodgate[C:7:0:0][LOCX:20]Open/close[R]
+[C:2:0:1]Support[C:7:0:0][LOCX:20]Collapses[LOCX:20]

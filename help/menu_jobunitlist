@@ -1,0 +1,21 @@
+menu_jobunitlist
+[TITLE]The Manual:  Job/Unit List[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_JOBLIST] or Press [IKEY:D_UNITLIST] from the main view.  The first emphasizes jobs and the
+second emphasizes units.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+This screen is a convenient way to few which tasks are active in the fortress and what your dwarves are doing.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+You can view the particulars of the job or unit profiles from this screen.
+[B]
+[LINK:data/help/unit_profile]Unit Profiles[/LINK]
+[B]
+You can also zoom to units or related buildings, or remove a unit from certain jobs.
+[B]
+If you have a manager, you can access the manager screen from here.
+[B]
+[LINK:data/help/menu_manager]Manager Screen[/LINK]

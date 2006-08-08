@@ -1,0 +1,29 @@
+menu_soldier_prefs
+[TITLE]The Manual:  Soldier Preferences[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_VIEWUNIT] from the main view and move to the desired unit.
+After that, press [IKEY:UNITVIEW_PRF] followed by [IKEY:UNITVIEW_PRF_SOLDIER].
+[B]
+You can also access the same information from the military screen, which you
+reach by pressing [IKEY:D_MILITARY], then select weapon preferences.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can designate which weapon and how many weapons a dwarf uses in battle.  You can also set armor preferences here.
+A dwarf will not carry weapons unless they are activated for combat.  If a dwarf is designated to carry a weapon,
+the mining profession will be turned off.
+[B]
+Heavily armored warriors move slower and make fewer attacks, but they are well-protected.  Armor is generally a good thing, but it is expensive
+and time-consuming to construct complete sets.  Dwarves will wear whatever is available up to their armor level.
+[B]
+Crossbows can be very effective, but this is only true in ranged combat.  A marksdwarf will bludgeon with the crossbow if it comes to that, but
+a crossbow is not a good melee weapon.
+[B]
+The various melee weapons have different properties.  Bludgeoning weapons do more raw damage but cause less bleeding and cause fewer internal injuries.
+Swords and axes balance these effects.  Spears cause more internal injuries but less raw damage.
+[B]
+Because raw damage is based in large part on the size difference, using heavy damage non-piercing weapons like maces against giant creatures can be effective.  At the same time, causing a critical internal injury to any creature can bring it down immediately, as well as slowly bleeding them out
+with many small wounds.
+[B]
+These considerations also apply to heavily-armored opponents.  Spears in the hands of unskilled dwarves might not be as effective as a mace wielded by the same dwarf, but a highly skilled speardwarf can score more critical strikes.

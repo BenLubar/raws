@@ -1,0 +1,21 @@
+menu_roomlist
+[TITLE]The Manual:  Room/Building List[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_ROOMS] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you have a list of all of the buildings in the fortress, starting with the proper rooms.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+On the right, there is a map of your fortress and the location of the room.
+[B]
+If you press [IKEY:CHANGETAB], and the room has an owner, you'll be presented with two evaluations of the room.
+One of them is impartial.  The other is based on the perception of the owner.
+[B]
+If you use materials that
+a dwarf prefers, you can often save objects and building space when you are trying to meet requirements.
+[B]
+If a room is shared by a spouse, you'll also be able to view the spouses evaluation.  Note that it
+might say "[[Name]] / Spouse" but you receive no spouse evaluation.  This means that the spouse is dead.

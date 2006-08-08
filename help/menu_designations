@@ -1,0 +1,33 @@
+menu_designations
+[TITLE]The Manual:  Designations[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_DESIGNATE] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can designate areas for digging, detailing, plant gathering and wood cutting.
+[B]
+Use the displayed keys to select which type of activity you are designating.
+[B]
+Press [IKEY:SELECT] to place one corner of the area you are designating.  All designated areas are rectangles.
+Move the cursor and press [IKEY:SELECT] again to finish the designation.
+[B]
+If your designated area has encompassed any appropriate map squares, they will become highlighted.  Detail
+highlighting is not always visible, but you can view it whenever you are designated.  Dig, chop and gather detailing
+is always visible.
+[B]
+Removing designations works in the same way as assigning them.  Any highlighted designations that are encompassed by
+your rectangle will be removed.  This includes any active jobs.
+[B][B]
+[C:7:0:1]Detailing[C:7:0:0]
+[B]
+Any rock wall or floor can be detailed, unless it bears ore or rough gems.  Detailing increases the value of rooms, which makes the dwarves happier and attracts more dwarves to your fortress.  The first time you engrave a surface, it will be smoothed.  The second time you engrave, it will be detailed with more valuable artwork.
+[B][B]
+[C:7:0:1]Fortifications[C:7:0:0]
+[B]
+Any detailed wall that is open on opposing sides (up/down or left/right) can be turned into a fortification.  Fortifications have no
+monetary value, as opposed to normal detailed walls.  However, dwarves can fire through fortifications.  If you have dwarves equipped
+with crossbows, they can be positioned safely behind fortifications, which still act as walls.
+[B]
+In addition, units cannot fire through fortifications from a distance unless they make a skill roll, so you dwarves can fire safely through them even at enemy ranged units.

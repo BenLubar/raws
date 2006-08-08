@@ -1,0 +1,13 @@
+fortressintro
+[TITLE]A Dwarven Outpost[/TITLE]
+[P]You have arrived.  After a journey from the Mountainhomes into the
+forbidding wilderness beyond, your harsh trek has finally
+ended.  Nestled beneath a sheer cliff face overlooking the wilds, your party of seven is to make an
+outpost for the glory of the King and all of [VAR:NATIVENAME:GLOBAL:YOURCIV].
+[P]There are almost no supplies left, but with stout labor
+comes sustenance.  Whether by bolt, plow, or hook, provide
+for your dwarves.  You are expecting a supply caravan just before
+winter entombs you, but it is spring now.
+Enough time to delve secure lodgings, ere the [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] get hungry.
+A new chapter of dwarven history begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],
+"[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]".  Strike the earth!

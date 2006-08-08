@@ -1,0 +1,20 @@
+a_first
+[TITLE]The Manual:  Your First Adventurer[/TITLE]
+First you need to create your adventurer.
+[B]
+If you select Play Now!, you'll start at one of your dwarven fortresses if one
+exists, otherwise you'll start in town.  In Play Now!, you have no equipment and no skills (later this will be replaced by the scenario system).
+[B]
+Otherwise, you can select a character by race and civilization.  It is easiest to get quests from human civilizations, so that might be the best to start.  It's quite likely that you'll die against your first opponent.  Think of it as playing the civilization, rather than playing an individual adventurer.  Each game becomes more interesting as your previous games are incorporated, so it is also recommended to play the same civilization a few times.
+[B]
+Skills are fairly self-explanatory, except for wrestling.  This skill helps with all aspects of unarmed combat, including dodging, so it's an important skill to take.  If you take wrestling at a level equal to or exceeding your top weapon skill, you might not start with a weapon.  Keep this in mind.  On the other hand, taking a high weapon skill and neglecting all the others means that your ability to parry is all that stands between you and serious injury.
+[B]
+If you start in a town, you can talk ([IKEY:A_TALK]) to people to get information and recruit followers.  The number and quality of the people that will join you depends on your overall skill.  If you talk to the mayor in the large building (or the leader in the large keep in some towns) you can get quests to structure your game if you like.  Or you can wander the wilderness.  If you ask people in town about surroundings, they'll let you know some places to go if anything is nearby.  These will appear on your travel map.
+[B]
+Once you are ready to go, you can walk off the edge of the map or press [IKEY:A_TRAVEL] (in friendly locations).  The only "meaningful" thing to do now is seek out your old fortresses, caves and other locations, and clear them of adversaries.  The named opponents stay dead, and your fights in the wilderness influence the evil/savagery of the local area.  As development progresses, there will be more to do.  Consider this a demo.
+[B]
+View your adventurer log ([IKEY:A_LOG]) to help you locate sites you know about or to remind you of your tasks.
+[B]
+Remember to check the key bindings to see a list of your options.
+[B]
+[LINK:data/help/a_keys]Key Bindings[/LINK]

@@ -1,0 +1,32 @@
+menu_buildjob
+[TITLE]The Manual:  Building Tasks[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can set up tasks at buildings, create rooms and set other building properties.  You can also designate buildings for destruction here.
+[B][B]
+[C:7:0:1]Standard Menu[C:7:0:0]
+[B]
+Most buildings, including workshops, use a standard menu.  Here you can create tasks, set their priority, cancel them,
+or set them to repeat.  Any healthy unoccupied dwarf with the proper professions will perform these tasks.
+[B]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
+[B][B]
+[C:7:0:1]Other Menus[C:7:0:0]
+[B]
+Many buildings have specialized menus:
+[B]
+[LINK:data/help/menu_rooms]Creating Rooms (Bed/Chair/Table/Coffin/Well/Target/Statue/Cage/Chain)[/LINK]
+[LINK:data/help/menu_buildjob_stockpile]Stockpile Menu[/LINK]
+[LINK:data/help/menu_buildjob_farmplot]Farm Plot Menu[/LINK]
+[LINK:data/help/menu_buildjob_depot]Trade Depot Menu[/LINK]
+[LINK:data/help/menu_buildjob_shop]Shop Menu[/LINK]
+[LINK:data/help/menu_buildjob_lever]Lever Menu[/LINK]
+[LINK:data/help/menu_buildjob_siege]Siege Engine Menu[/LINK]
+[LINK:data/help/menu_buildjob_channel]Channel Menu[/LINK]
+[LINK:data/help/menu_buildjob_door]Door Menu[/LINK]
+[LINK:data/help/menu_buildjob_animaltrap]Animal Trap Menu[/LINK]
+[LINK:data/help/menu_buildjob_rackstand]Weapon Rack/Armor Stand Menu[/LINK]

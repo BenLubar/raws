@@ -1,0 +1,28 @@
+menu_manager
+[TITLE]The Manual:  Manager Screen[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If you have a manager, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  Then press
+[IKEY:UNITJOB_MANAGER].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+You can set up work orders from this screen.  Work orders are a convenient way to set up tasks once your fortress starts getting large.
+[B]
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Press [IKEY:MANAGER_NEW_ORDER] to set up a new order.  You'll be faced with an enormous list of potential tasks.
+[B]
+Type a portion of the name of the task you are looking for to narrow down the list.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
+[B]
+Press [IKEY:SELECT] to select a task.  You'll be prompted for a quantity.  Type in a number and press [IKEY:SELECT].
+[B]
+The new order will appear in your work order list.  You can remove orders and change their priorities.
+[B]
+Every so often, the manager will assign tasks to buildings based on the work orders.
+[B]
+If accounts are active, you can view wages from this screen.
+[B]
+[LINK:data/help/accounts]Accounts[/LINK]
+[LINK:data/help/menu_wages]Wage Screen[/LINK]

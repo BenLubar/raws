@@ -1,0 +1,13 @@
+menu_buildjob_stockpile
+[TITLE]The Manual:  Stockpile Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a stockpile.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Once you select "take from a pile", move to another pile and press [IKEY:SELECT].
+You'll see the second pile appear in a list.
+[B]
+This is currently a permanent choice (you can destroy and recreate the pile to start over).
+The pile interfaces are a work-in-progress.

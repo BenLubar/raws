@@ -1,0 +1,21 @@
+unit_profile
+[TITLE]The Manual:  Unit Profiles[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+A common way to get to unit profiles is pressing [IKEY:D_VIEWUNIT] from the main view, moving
+the cursor over a unit and pressing [IKEY:UNITVIEW_PRF] then [IKEY:UNITVIEW_PRF_VIEW].
+[B]
+There are also a few other screens that let you view unit profiles directly.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can view a unit's holdings and requirements, as well as their thoughts and preferences.
+[B]
+The holdings, requirements, demands and mandates of the unit will be listed on the screen.  To access thoughts and preferences,
+simply press [IKEY:SELECT].
+[B]
+The thoughts and preferences of a unit let you know what has been happening to a unit and the things that would please them.  All of the
+information you see here is used by the game.
+[B]
+An important part of Dwarf Fortress is learning how to keep dwarves happy.  If dwarves become
+unhappy, they can throw tantrums, damage property, start fights and eventually lose their minds.

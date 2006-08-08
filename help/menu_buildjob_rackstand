@@ -1,0 +1,10 @@
+menu_buildjob_rackstand
+[TITLE]The Manual:  Weapon Rack / Armor Stand Menu[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_BUILDJOB] from the main view and move to a weapon rack or armor stand.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Weapons and armor are stored in these buildings.  Initially, they will not be used.  You must specify which sorts of objects you want them to be used for.
+You do that in this menu.

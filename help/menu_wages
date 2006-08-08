@@ -1,0 +1,15 @@
+menu_wages
+[TITLE]The Manual:  Wages Screen[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+If accounts are active, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  Then press
+[IKEY:UNITJOB_MANAGER] and finally [IKEY:MANAGER_WAGES].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+You can view wages from this screen.
+[B]
+Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to switch screens.
+[B]
+The percentages on the first screen are general guild modifiers.  These are not applied to the wage numbers in subsequent screens.
+So if mining is displayed as "[C:3:0:1]5[CHAR:15][C:7:0:0]" and the mining modifier is set at "[C:3:0:1]200%[C:7:0:0]", mining is actually worth [C:3:0:1]10[CHAR:15][C:7:0:0].

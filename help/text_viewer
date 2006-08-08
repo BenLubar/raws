@@ -1,0 +1,39 @@
+text_viewer
+[TITLE]The Manual:  Text Viewers[/TITLE]
+Use
+[IKEY:STANDARDSCROLL_UP]
+[IKEY:STANDARDSCROLL_DOWN]
+[IKEY:STANDARDSCROLL_LEFT]
+[IKEY:STANDARDSCROLL_RIGHT]
+[IKEY:STANDARDSCROLL_PAGEUP]
+[IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.  You can check the key bindings for your current settings.  You can get to the key bindings
+by pressing [IKEY:OPTIONS].
+[B]Press [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP] to move between any highlighted links,
+and press [IKEY:SELECT] to select a highlighted link.
+Here are some practice links to try:
+[B]
+[LINK:data\help\practice]Practice Link[/LINK]
+[LINK:data\help\practice]Practice Link[/LINK]
+[LINK:data\help\practice]Practice Link[/LINK]
+[LINK:data\help\practice]Practice Link[/LINK]
+[B]Press [IKEY:LEAVESCREEN] to close the test viewer.  If there
+it a paused section (as there is in this screen), it will open up before [IKEY:LEAVESCREEN] makes you leave.  [IKEY:SELECT] will also work if no link is highlighted.
+[B]In order to practice scrolling, I've put the pause instructions down the page a bit.
+[B].
+[B].
+[B].
+[B].
+[B].
+[B].
+[B].
+[B].[B]
+Sometimes there is a pause in a text viewer window.  Press [IKEY:LEAVESCREEN] to advance.  If no link is highlighted, [IKEY:SELECT] will work as well.
+[PAUSE]
+[B]
+Good job.  Here are some more practice links to try out.  Notice how the interface interacts with scrolling.
+[B]
+[LINK:data\help\practice]Practice Link
+[LINK:data\help\practice]Practice Link
+[LINK:data\help\practice]Practice Link
+[LINK:data\help\practice]Practice Link
+[HELP:text_viewer2]

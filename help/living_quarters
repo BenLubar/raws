@@ -1,0 +1,32 @@
+living_quarters
+[TITLE]The Manual:  Living Quarters[/TITLE]
+Your dwarves don't like to sleep and eat outside in the mud and rain, so you'll like to set up some
+living quarters early on.
+[B][B]
+[C:7:0:1]Sleeping Quarters[C:7:0:0]
+[B]
+If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface
+to creating a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,
+the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing.
+[B][B]
+[C:7:0:1]Dining Rooms[C:7:0:0]
+[B]
+A dwarf expects a decent dining experience.  To keep the dwarves satisfied the bare minimum is a table with an adjacent chair.  You'll
+know that you are doing this correctly because the dwarf will sit on the chair and you'll see the dwarf's meal placed on the table.  Dragging out
+a dining room from the table will enhance the dining experience, but it is not required.
+[B][B]
+[C:7:0:1]Meeting Halls[C:7:0:0]
+[B]
+Another way to keep dwarves happy is to give them places to meet and hold social events.  Meeting halls work well for this purpose.  You can
+drag out a meeting hall from a well or a table.  Note that a room dragged out from a table will be a dining room unless you specifically designate it a
+meeting hall.
+[B][B]
+[C:7:0:1]Other Rooms[C:7:0:0]
+[B]
+You can also drag out rooms from statues, cages and chains.  This will create sculpture gardens or zoos, respectively.  You can assign
+these rooms to specific dwarves, or you can leave them as general meeting places.
+[B][B]
+For technical help with these matters, follow these links:
+[B]
+[LINK:data\help\menu_make_buildings]Creating Buildings[/LINK]
+[LINK:data\help\menu_rooms]Creating Rooms[/LINK]

@@ -1,0 +1,58 @@
+menu_orders
+[TITLE]The Manual:  Standing Orders[/TITLE]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_ORDERS] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you'll find a number of options that govern the behavior of your dwarves.
+The descriptions of each follow.
+[B][B]
+[C:7:0:1]Outdoors[C:7:0:0]
+[B]
+You can determine which dwarves are allowed to go beyond the cliff face into the wilds.
+[B][B]
+[C:7:0:1]Cancellation Announcements[C:7:0:0]
+[B]
+The game announces when jobs fail, unless you don't want to hear about it.
+Some of these announcements are important, while others are just incidental.
+The default setting is good for most purposes, but if you find it intrusive, change it here.
+[B][B]
+[C:7:0:1]Gather Animals[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering animal haul jobs, do it here.
+[B][B]
+[C:7:0:1]Gather Food[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering food haul jobs, do it here.
+[B][B]
+[C:7:0:1]Gather Furniture[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering furniture haul jobs, do it here.
+[B][B]
+[C:7:0:1]Gather Bodies[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering burial haul jobs, do it here.
+[B][B]
+[C:7:0:1]Set Refuse Orders[C:7:0:0]
+[B]
+Here you can set refuse orders, with a few categories.
+[B][B]
+[C:7:0:1]Gather Minerals[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering stone and ore haul jobs, do it here.
+[B][B]
+[C:7:0:1]Gather Wood[C:7:0:0]
+[B]
+If you'd like to temporarily stop your dwarves from considering wood haul jobs, do it here.
+[B][B]
+[C:7:0:1]Harvesting[C:7:0:0]
+[B]
+By default, all dwarves help with the harvest, even nobles.  This is to prevent the loss of food.  If you feel
+you have the situation under control, you can set only your farmers to harvest.
+[B][B]
+[C:7:0:1]Food Mixing[C:7:0:0]
+[B]
+By default, dwarves will put all meats in a "meat barrel" and all plants in a "plant barrel", for example.  If
+you'd like them to separate foods out more specifically, you can do that here.
