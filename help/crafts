@@ -17,7 +17,7 @@ In order to make crafts, you need the following:
 For technical help with these matters, follow these links:
 [B]
 [LINK:data\help\menu_professions]Setting Professions[/LINK]
-[LINK:data\help\menu_building_tasks]Creating Building Tasks[/LINK]
+[LINK:data\help\menu_buildjob]Creating Building Tasks[/LINK]
 [B]
 Now let's discuss the individual materials.
 [B][B]
@@ -32,7 +32,7 @@ short swords.
 Metal is more valuable than stone, but also harder to find and process.  The ore that you find must
 be refined in at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge.
 [B]
-These processes require fuel.  You can use charcoal made from food, or coal fuel from coal refined from the mountain.
+These processes require fuel.  You can use charcoal made from wood, or coal fuel from coal refined from the mountain.
 [B]
 A metalsmith's forge requires an anvil.  You'll obtain your first anvil in the summer, at which point you can make
 additional anvils on your own.

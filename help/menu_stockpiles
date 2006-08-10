@@ -18,7 +18,7 @@ Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of st
 [B]
 Once you create a stockpile, you can set it to take goods from another stockpile.
 [B]
-[LINK:data\help\menu_building_stockpile]Individual Stockpile Menu[/LINK]
+[LINK:data\help\menu_buildjob_stockpile]Individual Stockpile Menu[/LINK]
 [B]
 Some stockpiles merit a bit of discussion.
 [B][B]

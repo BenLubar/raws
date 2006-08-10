@@ -5,7 +5,7 @@ Floodgates are used to control the flow of water through out the fortress.  This
 Floodgates cannot be opened directly.  You need to set up a lever.  Levers require mechanisms, which are built in the Mechanic's Workshop.
 The lever can then be linked to the floodgate (or a variety of other structures) from the levers task menu.
 [B]
-[LINK:data\help\menu_building_lever]The Lever Menu[/LINK]
+[LINK:data\help\menu_buildjob_lever]The Lever Menu[/LINK]
 [B]
 In order to avoid flooding your entire fortress, you need to understand how floodgates regulate water.
 [B]
