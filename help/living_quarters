@@ -8,6 +8,9 @@ living quarters early on.
 If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface
 to creating a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,
 the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing.
+[B]
+Noise from jobs disturbs dwarves when they are trying to sleep, so it's important to site your beds at least 4 squares from workshops.
+Building construction/destruction can travel 16 squares, so be careful of building around sleeping quarters if there are dwarves sleeping there.
 [B][B]
 [C:7:0:1]Dining Rooms[C:7:0:0]
 [B]

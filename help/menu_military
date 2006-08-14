@@ -11,7 +11,7 @@ Here you'll see a list of all your dwarves, with the soldiers listed first.  The
 Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.
 [B]
 At first, each dwarf will be in its own named squad.  Use [IKEY:SELECT] to select a commander.  Subsequent presses while other dwarves are
-selected will place them under the command of the first dwarf selected.
+selected will place them under the command of the first dwarf selected.  Selecting the commander again will place them in a squad of their own.
 [B]
 Certain dwarves will not submit to the command of other, lesser dwarves.
 [B]

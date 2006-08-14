@@ -8,8 +8,17 @@ Press [IKEY:D_BUILDJOB] from the main view and move to a farm plot.
 [B]
 Here you can select which crop to plant in the farm plot each season.
 There is no reason to let a field stand fallow, since the mud is refreshed each year.
-Prepare multiple plots to plant more than one crop.
+Prepare multiple plots to plant more than one crop type.
 [B]
-If a crop is red, it is known that this is a bad time of the season to plant it.
+If a crop is red, it is known that this is a bad time of the season to plant it, or the season you have selected has already passed.
+[B]
+Potash is the fertilizer of choice for dwarves.  It is made from lye in the Ashery.  Lye is made from ash,
+which you obtain at the wood furnace.  You'll need barrels and buckets to handle lye.
+[B]
+The [C:7:0:1]Ft 0/3[C:7:0:0] indicator at the bottom left of the menu tells you how fertilized your field is.
+The closer you get to full fertilization, the more plants can be produced from a single square.  If you don't
+fertilize fields, you will get one plant per square (though plants can sometimes yield multiple seeds, for a net gain).
+[B]
+You can make your dwarves fertilize the field by pressing [IKEY:BUILDJOB_FARM_FERTILIZE].  This will schedule enough jobs to fertilize your field.  If you press [IKEY:BUILDJOB_FARM_SEASFERT], these jobs will schedule at the beginning of each future season at this plot.
 [B]
 [LINK:data/help/food]More on Food[/LINK]
