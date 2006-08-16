@@ -15,4 +15,5 @@ The merchant will give you feedback.
 [B]
 You can seize goods from a merchant.  This will cause tensions between your civilizations.
 [B]
-You can offer goods to a merchant.  This will smooth over tensions somewhat and generally improve relations.
+You can offer goods to a merchant.  This will smooth over tensions somewhat and generally improve relations.  You shouldn't offer
+goods to dwarves, as this currently does nothing (with one clear exception late game).
