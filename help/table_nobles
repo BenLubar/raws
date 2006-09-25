@@ -31,7 +31,7 @@ Guildmaster
 [B]
 Hoardmaster
 [LOCX:30]None
-[LOCX:55]Wealth + 10000 Coins
+[LOCX:55]Wealth + 50000 Coins
 [B]
 Baron+Baroness
 [LOCX:30]Attracts Elf Diplomat
@@ -49,7 +49,7 @@ Trade Minister
 [B]
 Treasurer
 [LOCX:30]None
-[LOCX:55]Wealth + 3000 Coins
+[LOCX:55]Wealth + 15000 Coins
 [B]
 Philosopher
 [LOCX:30]None
@@ -74,7 +74,7 @@ Alchemist
 [B]
 Dungeon Master
 [LOCX:30]Tame Exotics
-[LOCX:55]Dig Deep + 5000 Coins[R]
+[LOCX:55]Dig Deep + 25000 Coins[R]
 [LOCX:30]More Coin Types
 [B]
 Manager
@@ -90,7 +90,7 @@ Broker
 [B]
 Bookkeeper
 [LOCX:30]View Stores/Wealth Val
-[LOCX:55]Wealth + 500 Coins[R]
+[LOCX:55]Wealth + 2500 Coins[R]
 [LOCX:30]Activate Accounts[R]
 [LOCX:31]w/ Manager
 [B]
