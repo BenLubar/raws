@@ -15,6 +15,7 @@ Here are the keys you can use to control your adventurer.
 [IKEY:CURSOR_UP_Z]
 [IKEY:CURSOR_DOWN_Z] - Move.[R]
 [IKEY:A_SAMESQUARE] - Move in own square.[R]
+[IKEY:A_WAIT] - Wait for a step.[R]
 [B]
 [IKEY:LEAVESCREEN] - Advance/clear messages.[R]
 [B]
