@@ -1,37 +1,46 @@
 table_material_values
-[TITLE]The Manual:  Material Value Ranking[/TITLE]
+[TITLE]The Manual: Material Value Ranking[/TITLE]
 These are the values of the most common materials in descending order.
 [B]
-[C:4:0:1]Rare Gems
-[B]
-[C:7:0:1]Platinum[LOCX:20][C:4:0:1]Precious Gems
-[B]
-[C:6:0:1]Gold[LOCX:20][C:7:0:1]Steel
-[B]
-[C:4:0:1]Semi-Precious Stones
-[B]
-[C:7:0:1]Silver[LOCX:20][C:0:0:1]Iron[LOCX:40][C:7:0:1]Crystal Glass
-[B]
-[C:6:0:1]Brass
-[B]
-[C:6:0:0]Bronze[LOCX:20][C:3:0:0]Clear Glass[LOCX:40][C:7:0:0]Tallow Soap (Base)
-[B]
-[C:7:0:1]Pearlash
-[B]
-[C:0:0:1]Potash[LOCX:20][C:0:0:1]Obsidian[LOCX:40][C:4:0:1]Some Ornamental Stones
-[B]
-[C:7:0:1]Light/Dark Stone
-[LOCX:20][C:6:0:0]Copper
-[LOCX:40][C:7:0:0]Tin
-[LOCX:60][C:0:0:1]Coal[R]
-[LOCX:20][C:7:0:1]Silk (Base)
-[LOCX:40][C:4:0:1]Some Ornamental Stones[R]
-[LOCX:20][C:2:0:0]Green Glass
-[LOCX:40][C:7:0:1]Lye
-[B]
-[C:7:0:0]Gray Stone
-[LOCX:20][C:7:0:0]Cloth (Base)
-[LOCX:40][C:7:0:0]Bone (Base)
-[LOCX:60][C:2:0:0]Shell (Base)[R]
-[LOCX:20][C:6:0:0]Leather (Base)
-[LOCX:40][C:7:0:0]Tallow (Base)
+[C:4:0:1]Rare Gems[C:7:0:0][R]
+[R]
+[C:7:0:1]Platinum[C:7:0:0][R]
+[C:4:0:1]Precious Gems[C:7:0:0][R]
+[R]
+[C:6:0:1]Gold[C:7:0:0][R]
+[C:7:0:1]Steel[C:7:0:0][R]
+[R]
+[C:4:0:1]Semi-Precious Stones[C:7:0:0][R]
+[R]
+[C:7:0:1]Silver[C:7:0:0][R]
+[C:0:0:1]Iron[C:7:0:0][R]
+[C:7:0:1]Crystal Glass[C:7:0:0][R]
+[R]
+[C:6:0:1]Brass[C:7:0:0][R]
+[R]
+[C:6:0:0]Bronze[C:7:0:0][R]
+[C:3:0:0]Clear Glass[C:7:0:0][R]
+[C:7:0:0]Tallow Soap (Base)[C:7:0:0][R]
+[R]
+[C:7:0:1]Pearlash[C:7:0:0][R]
+[R]
+[C:0:0:1]Potash[C:7:0:0][R]
+[C:0:0:1]Obsidian[C:7:0:0][R]
+[C:4:0:1]Some Ornamental Stones[C:7:0:0][R]
+[R]
+[C:7:0:1]Light/Dark Stone[C:7:0:0][R]
+[C:6:0:0]Copper[C:7:0:0][R]
+[C:7:0:0]Tin[C:7:0:0][R]
+[C:0:0:1]Coal[C:7:0:0][R]
+[C:7:0:1]Silk (Base)[C:7:0:0][R]
+[C:4:0:1]Some Ornamental Stones[C:7:0:0][R]
+[C:2:0:0]Green Glass[C:7:0:0][R]
+[C:7:0:1]Lye[C:7:0:0][R]
+[R]
+[C:7:0:0]Gray Stone[C:7:0:0][R]
+[C:7:0:0]Cloth (Base)[C:7:0:0][R]
+[C:7:0:0]Bone (Base)[C:7:0:0][R]
+[C:2:0:0]Shell (Base)[C:7:0:0][R]
+[C:6:0:0]Leather (Base)[C:7:0:0][R]
+[C:7:0:0]Tallow (Base)[C:7:0:0][R]
+[R]

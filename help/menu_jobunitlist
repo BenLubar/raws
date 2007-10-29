@@ -1,5 +1,6 @@
 menu_jobunitlist
-[TITLE]The Manual:  Job/Unit List[/TITLE]
+[TITLE]The Manual: Job/Unit List[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_JOBLIST] or Press [IKEY:D_UNITLIST] from the main view.  The first emphasizes jobs and the

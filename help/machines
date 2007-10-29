@@ -1,0 +1,23 @@
+machines
+[TITLE]The Manual: Machines[/TITLE]
+Using querns to mill wheat and buckets to haul water is very inefficient, and your dwarves get tired of running on screw pump casings.  Fortunately you can utilize wind and water power to make these jobs easier.
+[B][B]
+[C:7:0:1]Basics[C:7:0:0]
+[B]
+You must connect power sources to work areas.  In this case, the power sources are water wheels and windmills, and the work areas are millstones and screw pumps.
+[B]
+You can either place the work area directly adjacent to the power source, or you can use a series of axles and gear assemblies to transfer the power over longer distances.
+[B]
+An axle can only transfer power along its length.  A gear assembly can transfer power in any direction but uses more power per tile than an axle.  So if you want to connect a north/south axle to an east/west or an up/down axle, you must use a gear assembly (or a work area).
+[B][B]
+[C:7:0:1]Water Power[C:7:0:0]
+[B]
+You require a visibly flowing body of water.  A temporary flood of water will also work for as long as you can sustain it.  To harness the power of the flow, you need to use a water wheel.  One you've got your machinery connected to the bank above the water, place a wheel directly above the flow.
+[B]
+A water wheel can only be connected to machinery through its center perpendicular to the line of the wheel.  You need to use a gear assembly to transfer the power vertically.
+[B][B]
+[C:7:0:1]Wind Power[C:7:0:0]
+[B]
+A windmill can be placed anywhere outside.  It can only transfer power downward however, so you should build it on top of a gear assembly or work area, or you won't be able to use it.  In order to build it in the air, you might need to build temporary stairways, ramps or walls to access the location.
+[B]
+A windmill generates power according to the wind speed, which can vary with the time of day and other factors.

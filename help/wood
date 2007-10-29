@@ -1,5 +1,5 @@
 wood
-[TITLE]The Manual:  Chopping Wood[/TITLE]
+[TITLE]The Manual: Chopping Wood[/TITLE]
 Wood is the starting point for many fortress industries.  In order to chop wood, you need the following:
 [B]
 [C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with an axe and the Wood Cutting profession
@@ -7,9 +7,10 @@ Wood is the starting point for many fortress industries.  In order to chop wood,
 [C:6:0:1][CHAR:15][C:2:0:1] A tree designated for cutting that such a dwarf can access
 [C:7:0:0]
 [B]
+[B]
 For technical help with these matters, follow these links:
 [B]
-[LINK:data\help\menu_professions]Setting Professions[/LINK]
-[LINK:data\help\menu_designations]Designations[/LINK]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
+[LINK:data/help/menu_designations]Designations[/LINK]
 [B]
 The initial purpose for wood is building beds and other furniture, as well as crossbows and bolts for defensive purposes.  Once you strike metal ores, you can also feed wood to the wood furnace to make charcoal, which can be used in the smelter to refine ore.  Wood can also be burned at the wood furnace to make ash, which can be used at the ashery to make lye.  Lye can be used to make soap (along with animal fat), or it can be made into potash, which is a fertilizer.  Potash can be baked at a kiln into pearlash, which can be used to produce clear glass.

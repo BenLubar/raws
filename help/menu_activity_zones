@@ -1,0 +1,38 @@
+menu_activity_zones
+[TITLE]The Manual: Activity Zones[/TITLE]
+[B][B]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_CIVZONE] from the main view.
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+An activity zone is an area where your dwarves perform any of a variety of tasks.  Sometimes the dwarves will perform these tasks on their own and the activity zone is a way of localizing activity, and sometimes the activity zone is the only way to get the dwarves to perform the task.
+[B]
+First you need to place an activity zone.  This is done by selecting two of its opposing corners with your cursor.
+As you move to the second corner, you will be shown a count of how many of the squares in the rectangle are valid for a given activity.
+[B]
+[B][B]
+[C:7:0:1]Water Source[C:7:0:0]
+[B]
+Dwarves will use these zones for drinking, filling waterskins and filling buckets.  Dwarves will not drink saltwater and they don't like stagnant water.
+[B][B]
+[C:7:0:1]Fishing[C:7:0:0]
+[B]
+Dwarves will use these areas for fishing provided there are still fish to catch.
+[B][B]
+[C:7:0:1]Garbage Dump[C:7:0:0]
+[B]
+Dwarves will dump designated items in these squares.  A dumped item will become forbidden.  Dwarves will preferentially use open squares that cause the item to fall at least one level.
+[B][B]
+[C:7:0:1]Pit/Pond[C:7:0:0]
+[B]
+You can drop creatures into these zones.  You can also designate them to be filled with buckets.  Once an animal is dropped, it loses its attachment to the zone, so if it gets out somehow your dwarves will not seek to replace it.
+[B][B]
+[C:7:0:1]Sand Collection[C:7:0:0]
+[B]
+You can collect sand in bags in these zones.  There must be sand in the zone for this to work.
+[B][B]
+[C:7:0:1]Meeting Area[C:7:0:0]
+[B]
+Your dwarves will congregate in these areas.

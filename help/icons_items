@@ -1,53 +1,54 @@
 icons_items
-[TITLE]The Manual:  Icons[/TITLE]
-[C:7:0:1]Objects[C:7:0:0]
+[TITLE]The Manual: Icons[/TITLE]
+[B][B]
+[C:7:0:1]Objects (A Partial List)[C:7:0:0]
 [B]
-[C:2:0:1][CHAR:4][C:7:0:0] Cut Gems
-[LOCX:26][C:7:0:0][CHAR:7][C:7:0:0] Stone
-[LOCX:52][C:3:0:1][CHAR:9][C:7:0:0] Bracelet[R]
-[C:6:0:0][CHAR:11][C:7:0:0] Bag
-[LOCX:26][C:7:0:1][CHAR:12][C:7:0:0] Amulet
-[LOCX:52][C:7:0:0][CHAR:14][C:7:0:0] Armor Stand[R]
-[C:4:0:1][CHAR:15][C:7:0:0] Rough Gems/Web
-[LOCX:26][C:0:6:0][CHAR:19][C:7:0:0] Cage
-[LOCX:52][C:7:0:0][CHAR:20][C:7:0:0] Goblet/Mug[R]
-[C:0:0:1][CHAR:21][C:7:0:0] Chain/Rope
-[LOCX:26][C:6:0:0][CHAR:22][C:7:0:0] Log
-[LOCX:52][C:6:0:1][CHAR:36][C:7:0:0] Coins[R]
-[C:7:0:0][CHAR:37][C:7:0:0] Prepared Food
-[LOCX:26][C:4:0:0][CHAR:42][C:7:0:0] Ore
-[LOCX:52][C:7:0:1][CHAR:45][C:7:0:0] Scepter[R]
-[C:0:0:1][CHAR:47][C:7:0:0] Weapon
-[LOCX:26][C:7:0:0][CHAR:48][C:7:0:0] Coffin
-[LOCX:52][C:0:0:1][CHAR:91][C:7:0:0] Armor[R]
-[C:6:0:0][CHAR:127][C:7:0:0] Animal Trap
-[LOCX:26][C:7:0:0][CHAR:128][C:7:0:0] Mechanism
-[LOCX:52][C:7:0:0][CHAR:135][C:7:0:0] Totem[R]
-[C:7:0:0][CHAR:143][C:7:0:0] Figurine
-[LOCX:26][C:7:0:1][CHAR:145][C:7:0:0] Toy
-[LOCX:52][C:6:0:0][CHAR:146][C:7:0:0] Backpack/Chest/Quiver[R]
-[C:5:0:1][CHAR:167][C:7:0:0] Cloth
-[LOCX:26][C:6:0:1][CHAR:168][C:7:0:0] Instrument
-[LOCX:52][C:0:0:1][CHAR:169][C:7:0:0] Rotten Plant[R]
-[C:3:0:1][CHAR:173][C:7:0:0] Flask
-[LOCX:26][C:3:0:1][CHAR:177][C:7:0:0] Window
-[LOCX:52][C:0:6:1][CHAR:186][C:7:0:0] Door[R]
-[C:6:0:0][CHAR:209][C:7:0:0] Table
-[LOCX:26][C:6:0:0][CHAR:210][C:7:0:0] Chair
-[LOCX:52][C:4:0:0][CHAR:224][C:7:0:0] Meat/Fish[R]
-[C:6:0:0][CHAR:225][C:7:0:0] Leather
-[LOCX:26][C:6:0:0][CHAR:227][C:7:0:0] Cabinet
-[LOCX:52][C:0:0:1][CHAR:228][C:7:0:0] Trap Component[R]
-[C:0:0:1][CHAR:229][C:7:0:0] Anvil
-[LOCX:26][C:6:0:1][CHAR:230][C:7:0:0] Crown
-[LOCX:52][C:6:0:0][CHAR:233][C:7:0:0] Bed[R]
-[C:7:0:0][CHAR:234][C:7:0:0] Statue
-[LOCX:26][C:2:0:1][CHAR:235][C:7:0:0] Earring
-[LOCX:52][C:4:0:1][CHAR:237][C:7:0:0] Thread[R]
-[C:6:0:1][CHAR:240][C:7:0:0] Bars
-[LOCX:26][C:0:6:0][CHAR:246][C:7:0:0] Barrel
-[LOCX:52][C:6:0:1][CHAR:248][C:7:0:0] Ring[R]
-[C:2:0:1][CHAR:250][C:7:0:0] Seeds
-[LOCX:26][C:7:0:0][CHAR:251][C:7:0:0] Weapon Rack
-[LOCX:52][C:5:0:0][CHAR:253][C:7:0:0] Remains[R]
-[C:7:0:0][CHAR:254][C:7:0:0] Blocks
+[C:2:0:1][CHAR:4][C:7:0:0] Cut Gems[R]
+[C:7:0:0][CHAR:7][C:7:0:0] Stone[R]
+[C:3:0:1][CHAR:9][C:7:0:0] Bracelet[R]
+[C:6:0:0][CHAR:11][C:7:0:0] Bag[R]
+[C:7:0:1][CHAR:12][C:7:0:0] Amulet[R]
+[C:7:0:0][CHAR:14][C:7:0:0] Armor Stand[R]
+[C:4:0:1][CHAR:15][C:7:0:0] Rough Gems/Web[R]
+[C:0:6:0][CHAR:19][C:7:0:0] Cage[R]
+[C:7:0:0][CHAR:20][C:7:0:0] Goblet/Mug[R]
+[C:0:0:1][CHAR:21][C:7:0:0] Chain/Rope[R]
+[C:6:0:0][CHAR:22][C:7:0:0] Log[R]
+[C:6:0:1]$[C:7:0:0] Coins[R]
+[C:7:0:0]%[C:7:0:0] Prepared Food[R]
+[C:4:0:0]*[C:7:0:0] Ore[R]
+[C:7:0:1]-[C:7:0:0] Scepter[R]
+[C:0:0:1]/[C:7:0:0] Weapon[R]
+[C:7:0:0]0[C:7:0:0] Coffin[R]
+[C:0:0:1][[[C:7:0:0] Armor[R]
+[C:6:0:0][CHAR:127][C:7:0:0] Animal Trap[R]
+[C:7:0:0][CHAR:128][C:7:0:0] Mechanism[R]
+[C:7:0:0][CHAR:135][C:7:0:0] Totem[R]
+[C:7:0:0][CHAR:143][C:7:0:0] Figurine[R]
+[C:7:0:1][CHAR:145][C:7:0:0] Toy[R]
+[C:6:0:0][CHAR:146][C:7:0:0] Backpack/Chest/Quiver[R]
+[C:5:0:1][CHAR:167][C:7:0:0] Cloth[R]
+[C:6:0:1][CHAR:168][C:7:0:0] Instrument[R]
+[C:0:0:1][CHAR:169][C:7:0:0] Rotten Plant[R]
+[C:3:0:1][CHAR:173][C:7:0:0] Flask[R]
+[C:3:0:1][CHAR:177][C:7:0:0] Window[R]
+[C:0:7:1][CHAR:197][C:7:0:0] Door[R]
+[C:6:0:0][CHAR:209][C:7:0:0] Table[R]
+[C:6:0:0][CHAR:210][C:7:0:0] Chair[R]
+[C:4:0:0][CHAR:224][C:7:0:0] Meat/Fish[R]
+[C:6:0:0][CHAR:225][C:7:0:0] Leather[R]
+[C:6:0:0][CHAR:227][C:7:0:0] Cabinet[R]
+[C:0:0:1][CHAR:228][C:7:0:0] Trap Component[R]
+[C:0:0:1][CHAR:229][C:7:0:0] Anvil[R]
+[C:6:0:1][CHAR:230][C:7:0:0] Crown[R]
+[C:6:0:0][CHAR:233][C:7:0:0] Bed[R]
+[C:7:0:0][CHAR:234][C:7:0:0] Statue[R]
+[C:2:0:1][CHAR:235][C:7:0:0] Earring[R]
+[C:4:0:1][CHAR:237][C:7:0:0] Thread[R]
+[C:6:0:1][CHAR:240][C:7:0:0] Bars[R]
+[C:0:6:0][CHAR:246][C:7:0:0] Barrel[R]
+[C:6:0:1][CHAR:248][C:7:0:0] Ring[R]
+[C:2:0:1][CHAR:250][C:7:0:0] Seeds[R]
+[C:7:0:0][CHAR:251][C:7:0:0] Weapon Rack[R]
+[C:5:0:0][CHAR:253][C:7:0:0] Remains[R]
+[C:7:0:0][CHAR:254][C:7:0:0] Blocks[R]

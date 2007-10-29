@@ -1,5 +1,5 @@
 mining
-[TITLE]The Manual:  Mining[/TITLE]
+[TITLE]The Manual: Mining[/TITLE]
 Mining is the most basic activity your dwarves will perform.  In order to mine, you need the following:
 [B]
 [C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with a pick and the Mining profession
@@ -7,10 +7,11 @@ Mining is the most basic activity your dwarves will perform.  In order to mine, 
 [C:6:0:1][CHAR:15][C:2:0:1] A rock wall in a designated mining area that such a dwarf can access
 [C:7:0:0]
 [B]
+[B]
 For technical help with these matters, follow these links:
 [B]
-[LINK:data\help\menu_professions]Setting Professions[/LINK]
-[LINK:data\help\menu_designations]Designations[/LINK]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
+[LINK:data/help/menu_designations]Designations[/LINK]
 [B]
 Mining serves two purposes.  First, you get minerals which you can turn into treasure.  Second, you
 create living space for your dwarves to shelter in.  The rest of the First Outpost tutorial

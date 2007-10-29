@@ -1,12 +1,12 @@
 menus
-[TITLE]The Manual:  The Many Menus[/TITLE]
+[TITLE]The Manual: The Many Menus[/TITLE]
 Starting from the main dwarf fortress screen, there are many options, and it can
 be difficult to sort things out at first.  Here each choice will be described.
 [B][B]
 [C:7:0:1]General Notes[C:7:0:0]
 [B]
 Use [IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT]
-[IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT] to move the view window around.
+[IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT][IKEY:CURSOR_UP_Z][IKEY:CURSOR_DOWN_Z] to move the view window around.
 [B]
 Use [IKEY:CHANGETAB] to cycle through different arrangements of the view windows.
 [B]
@@ -14,7 +14,7 @@ Keep in mind that you can pause the game at any time using [IKEY:D_PAUSE].  If y
 the game Very slowly, use [IKEY:D_ONESTEP].  It takes about ten presses of this key for the average dwarf to move one square,
 but it lets you watch battles very precisely if you like.
 [B]
-If you ever get lost as you scroll around, press [IKEY:D_GATE].  This key zooms you to the center of the cliff face.
+If you ever get lost as you scroll around, press [IKEY:D_HOTKEY1].  This key zooms you to your starting wagon.  You can change the zoom hotkeys by pressing [IKEY:D_HOT_KEYS].
 [B]
 Every announcement made at the bottom of the screen is saved for you.  Press [IKEY:D_ANNOUNCE] to view them.
 [B][B]
@@ -24,14 +24,14 @@ Press [IKEY:D_BUILDING] to place a building.  Most buildings require some kind o
 with the proper profession settings to build them.  Note that many buildings first need to be designed
 by a dwarf with the Architecture profession.  Follow the link for more information.
 [B]
-[LINK:data\help\menu_make_buildings]Building Placement Specifics[/LINK]
+[LINK:data/help/menu_make_buildings]Building Placement Specifics[/LINK]
 [B][B]
 [C:7:0:1]Designations[C:7:0:0]
 [B]
 Press [IKEY:D_DESIGNATE] to designate areas for digging, detailing, plant gathering and wood cutting.
 If a dwarf has the appropriate profession and equipment, work will begin immediately.
 [B]
-[LINK:data\help\menu_designations]Designation Specifics[/LINK]
+[LINK:data/help/menu_designations]Designation Specifics[/LINK]
 [B][B]
 [C:7:0:1]View Units[C:7:0:0]
 [B]
@@ -39,27 +39,33 @@ Press [IKEY:D_VIEWUNIT] to view unit information.  Move the cursor to a unit and
 This is where you set professions, view thoughts and wounds, view skills and set soldier preferences,
 among other things.
 [B]
-[LINK:data\help\menu_viewunit]Unit Viewing Specifics[/LINK]
+[LINK:data/help/menu_viewunit]Unit Viewing Specifics[/LINK]
 [B][B]
 [C:7:0:1]Create Building Tasks[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDJOB] to view the task lists for your buildings.  You also create rooms and set
 some other settings using the menus that arise from this selection.
 [B]
-[LINK:data\help\menu_buildjob]Building Task Specifics[/LINK]
+[LINK:data/help/menu_buildjob]Building Task Specifics[/LINK]
 [B][B]
 [C:7:0:1]View Building Items[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDITEM] to view the objects that are in a building.  You'll often find objects
 you thought were missing inside a building.
 [B]
-[LINK:data\help\menu_builditem]Building Item Specifics[/LINK]
+[LINK:data/help/menu_builditem]Building Item Specifics[/LINK]
+[B][B]
+[C:7:0:1]Activity Zones[C:7:0:0]
+[B]
+Press [IKEY:D_CIVZONE] to create a new activity zone.
+[B]
+[LINK:data/help/menu_activity_zones]Activity Zone Specifics[/LINK]
 [B][B]
 [C:7:0:1]Stockpiles[C:7:0:0]
 [B]
 Press [IKEY:D_STOCKPILES] to create a new stockpile.
 [B]
-[LINK:data\help\menu_stockpiles]Stockpile Specifics[/LINK]
+[LINK:data/help/menu_stockpiles]Stockpile Specifics[/LINK]
 [B][B]
 [C:7:0:1]Overall Status[C:7:0:0]
 [B]
@@ -67,63 +73,62 @@ Press [IKEY:D_STATUS] to view the overall status of your fortress.  You can chec
 your food stores.  At first you can also get advice and set preferences for your kitchens and animals.
 Later on several additional menus open up as you attract specialized dwarves.
 [B]
-[LINK:data\help\menu_status]Overall Status Specifics[/LINK]
+[LINK:data/help/menu_status]Overall Status Specifics[/LINK]
 [B][B]
 [C:7:0:1]Set Standing Orders[C:7:0:0]
 [B]
 Press [IKEY:D_ORDERS] to set the standing orders for your dwarves.  Follow the link for descriptions.
 [B]
-[LINK:data\help\menu_orders]Standing Order Specifics[/LINK]
+[LINK:data/help/menu_orders]Standing Order Specifics[/LINK]
 [B][B]
 [C:7:0:1]Room/Building List[C:7:0:0]
 [B]
 Press [IKEY:D_ROOMS] to view the list of rooms and buildings.  You can also check
 how a dwarf values a room from here.
 [B]
-[LINK:data\help\menu_roomlist]Room List Specifics[/LINK]
+[LINK:data/help/menu_roomlist]Room List Specifics[/LINK]
 [B][B]
 [C:7:0:1]Job List[C:7:0:0]
 [B]
 Press [IKEY:D_JOBLIST] to view a list of jobs.  This is similar to the Unit List screen.  If you have a manager,
 you can get to the manager screen from here.
 [B]
-[LINK:data\help\menu_jobunitlist]Job/Unit List Specifics[/LINK]
+[LINK:data/help/menu_jobunitlist]Job/Unit List Specifics[/LINK]
 [B][B]
 [C:7:0:1]Unit List[C:7:0:0]
 [B]
 Press [IKEY:D_UNITLIST] to view a list of units.  This is similar to the Job List screen.  If you have a manager,
 you can get to the manager screen from here.
 [B]
-[LINK:data\help\menu_jobunitlist]Job/Unit List Specifics[/LINK]
+[LINK:data/help/menu_jobunitlist]Job/Unit List Specifics[/LINK]
 [B][B]
 [C:7:0:1]Military[C:7:0:0]
 [B]
 Press [IKEY:D_MILITARY] to view and change your military.  You can access the menus of individual squads and set the
 chain of command from this screen.
 [B]
-[LINK:data\help\menu_military]Military Specifics[/LINK]
+[LINK:data/help/menu_military]Military Specifics[/LINK]
 [B][B]
 [C:7:0:1]Command Squads[C:7:0:0]
 [B]
 Press [IKEY:D_SQUADS] to order your squads to station at a new location or to send them on patrols.
 [B]
-[LINK:data\help\menu_squads]Command Squad Specifics[/LINK]
+[LINK:data/help/menu_squads]Command Squad Specifics[/LINK]
 [B][B]
 [C:7:0:1]Look Around[C:7:0:0]
 [B]
 Press [IKEY:D_LOOK] to look at everything that is in a map square.  You can select many of these objects for further descriptions.
 [B]
-[LINK:data\help\menu_look]Look Around Specifics[/LINK]
+[LINK:data/help/menu_look]Look Around Specifics[/LINK]
 [B][B]
-[C:7:0:1]Nobles[C:7:0:0]
+[C:7:0:1]Nobles and Administrators[C:7:0:0]
 [B]
-Press [IKEY:D_NOBLES] to view your nobles.  This option is not initially available, but becomes accessible as soon as your first
-specialized dwarf arrives.  Most nobles and specialized dwarves look like [C:5:0:0][CHAR:1][C:7:0:0].
+Press [IKEY:D_NOBLES] to view your nobles and appoint administrators.
 [B]
-[LINK:data\help\menu_nobles]Noble Specifics[/LINK]
+[LINK:data/help/menu_nobles]Noble Specifics[/LINK]
 [B][B]
 [C:7:0:1]Civilizations[C:7:0:0]
 [B]
 Press [IKEY:D_CIVLIST] to view your neighbors.
 [B]
-[LINK:data\help\menu_civlist]Civilization Specifics[/LINK]
+[LINK:data/help/menu_civlist]Civilization Specifics[/LINK]

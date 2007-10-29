@@ -1,5 +1,6 @@
 menu_make_buildings
-[TITLE]The Manual:  Placing Buildings[/TITLE]
+[TITLE]The Manual: Placing Buildings[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDING] from the main view.
@@ -10,9 +11,6 @@ First you'll be confronted by a long list of buildings.  Many of these lead to s
 [B]
 If you don't have the required materials, you will be told what you need.
 [B]
-If you have them, you'll be able to choose the objects you want to use from a list.  Some buildings require multiple items.
-And of these, some buildings like bridges can be sized according to how many objects you select.  Other buildings like dirt roads do not require items.
-[B]
 Once you are ready to place a building, you'll see one or many Xs appear on the screen.  You can manuever these in the same way as the standard cursor.
 This is the location of your new building.  Some buildings have additional options for sizing and orientation.
 [B]
@@ -20,11 +18,11 @@ The color of the Xs lets you know about the building placement:
 [B]
 [C:2:0:1]X[C:7:0:0] Legal placement[R]
 [C:2:0:0]X[C:7:0:0] Legal placement and will obstruct dwarves[R]
-[C:3:0:1]X[C:7:0:0] Legal placement, submerged[R]
-[C:4:0:1]X[C:7:0:0] Blocked, cannot place
+[C:4:0:1]X[C:7:0:0] or [C:5:0:1]X[C:7:0:0] Blocked, cannot place[R]
+The [C:4:0:1]X[C:7:0:0] can also appear in other special cases.  The reasons for placement failure are listed for you.
 [B]
-The [C:4:0:1]X[C:7:0:0] can also appear in other special cases.  Mill wheels require a river, and bridges that are set to raise in a certain location
-must be anchored on solid ground at the edge toward which they raise.  Aqueducts require you to designate opening directions.  If you want a horizontal opening, the aqueduct must be at least 3 squares tall.  It needs to be at least 3 squares wide for vertical openings.
+Once a building is placed, you'll be able to choose the objects you want to use from a list.  Some buildings require multiple items.
+And of these, some buildings like bridges can be sized according to how many objects you select.  Other buildings like dirt roads do not require items.
 [B]
-Once a building is placed, healthy unoccupied dwarves with the appropriate professions will get to work on it.  Some buildings require an architect
+When you've finished selecting items, healthy unoccupied dwarves with the appropriate professions will get to work on it.  Some buildings require an architect
 to design them.  Some require a carpenter or mason, while others require a dwarf of the profession used by the building's tasks.

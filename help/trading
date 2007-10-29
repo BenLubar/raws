@@ -1,17 +1,11 @@
 trading
-[TITLE]The Manual:  Trading[/TITLE]
+[TITLE]The Manual: Trading[/TITLE]
 Sometimes your dwarves need to trade away their wealth to obtain necessities.  You do this at a trade depot.
 Merchants arrive throughout the year, starting in the first autumn.
 [B]
 You can go to the trade depot both to designate goods to be brought to the depot for trade and to perform
 the actual transactions.
 [B]
-Humans require a road to bring their wagons.  The road must be able to support a 3x3 wagon all
-the way to the center of the depot.  Road placement leaves holes where there are rocks.  You must detail these rocks, including the stone
-floor if your depot is inside.
-Bridges over the river count as a road.  Clear trees in advance.  You will know that your road is successful when it
-fades three wide off the left edge of the map for several tiles.  Humans will bring mules even if no wagons can access your fortress.
-[B]
 For technical help with these matters, follow this link:
 [B]
-[LINK:data\help\menu_buildjob_depot]The Trade Depot Interface[/LINK]
+[LINK:data/help/menu_buildjob_depot]The Trade Depot Interface[/LINK]

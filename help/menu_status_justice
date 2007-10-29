@@ -1,5 +1,6 @@
 menu_status_justice
-[TITLE]The Manual:  Dwarven Justice[/TITLE]
+[TITLE]The Manual: Dwarven Justice[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 If you have a sheriff or captain of the guard, press [IKEY:D_STATUS] from the main view, scroll to "Justice" and press [IKEY:SELECT].

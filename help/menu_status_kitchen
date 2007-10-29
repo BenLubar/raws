@@ -1,5 +1,6 @@
 menu_status_kitchen
-[TITLE]The Manual:  Kitchen Preferences[/TITLE]
+[TITLE]The Manual: Kitchen Preferences[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_STATUS] from the main view, scroll to "Kitchen" and press [IKEY:SELECT].

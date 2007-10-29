@@ -1,41 +1,41 @@
 crafts
-[TITLE]The Manual:  Making Crafts[/TITLE]
-To the dwarves, all of this mining would pointless unless the end result is a fortress filled with treasure.
+[TITLE]The Manual: Making Crafts[/TITLE]
+To the dwarves, all of this mining would be pointless unless the end result is a fortress filled with treasure.
 Once you've mined out some stone, you'll be ready to make crafts.  You can also make objects out of wood,
-bone, shell, glass, silk[.][.]. whatever your dwarves can get their hands on.  You can also decorate existing objects
+bone, shell, glass, silk... whatever your dwarves can get their hands on.  You can also decorate existing objects
 with these materials.
 [B]
 In order to make crafts, you need the following:
 [B]
 [C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the proper profession
 [B]
-[C:6:0:1][CHAR:15][C:2:0:1] The proper workshop
+[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible workshop
 [B]
-[C:6:0:1][CHAR:15][C:2:0:1] The proper materials
+[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible materials
 [C:7:0:0]
 [B]
 For technical help with these matters, follow these links:
 [B]
-[LINK:data\help\menu_professions]Setting Professions[/LINK]
-[LINK:data\help\menu_buildjob]Creating Building Tasks[/LINK]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
+[LINK:data/help/menu_buildjob]Creating Building Tasks[/LINK]
 [B]
 Now let's discuss the individual materials.
 [B][B]
 [C:7:0:1]Stone[C:7:0:0]
 [B]
-Stone is simple.  Use the mason or craftsdwarf's workshop to assign jobs.  Stone
-comes in three colors.  The light and dark rocks are rare and more valuable.  Obsidian can be used to make
-short swords.
+Stone is simple.  Use the mason or craftsdwarf's workshop to assign jobs.  Stone is buried under a few layers of soil in low-lying areas, so dig downward if you have trouble finding some.
+[B]
+Certain varieties of stone, like limestone, are used to further operations at the smelter.  If you want to use these in jobs, you'll have to enable them from the Stone Restriction screen.
+[LINK:data/help/menu_status_stone]Stone Restrictions[/LINK]
 [B][B]
 [C:7:0:1]Metal[C:7:0:0]
 [B]
 Metal is more valuable than stone, but also harder to find and process.  The ore that you find must
-be refined in at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge.
+be refined at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge.
 [B]
-These processes require fuel.  You can use charcoal made from wood, or coal fuel from coal refined from the mountain.
+These processes require fuel.  You can use charcoal made from food, or coal fuel from coal refined from the mountain.
 [B]
-A metalsmith's forge requires an anvil.  You'll obtain your first anvil in the summer, at which point you can make
-additional anvils on your own.
+A metalsmith's forge requires an anvil.  You can either bring one with you or request one from the outpost liaison and trade for it the next year.
 [B][B]
 [C:7:0:1]Gems[C:7:0:0]
 [B]
@@ -49,10 +49,10 @@ a large finished gem or gem crafts.  Most of the time, you'll obtain small gems.
 [B]
 Wood is easy to obtain and requires no processing.  It is also an early source of fuel and can be used to make lye.
 Cut wood by designating trees for logging outside.  You can then use the logs at the carpenter's workshop, the bowyer's workshop and
-the wood furnace.  Keep in mind that wood is the only material that can be used for beds, barrels, bins and buckets, so it's good to keep
+the wood furnace.  Keep in mind that wood is the only material that can be used for beds and axles, so it's good to keep
 a steady supply of logs coming in from outdoors.
 [B]
-[LINK:data\help\menu_designations]Designations[/LINK]
+[LINK:data/help/menu_designations]Designations[/LINK]
 [B][B]
 [C:7:0:1]Bone and Shell[C:7:0:0]
 [B]
@@ -80,10 +80,12 @@ cloths.
 [B][B]
 [C:7:0:1]Glass[C:7:0:0]
 [B]
-Glass is a fairly valuable material and can be a decent early trade good.  If you have a bag, you can create an order to collect sand at a
-glass furnace.  Then you can make green glass goods at the glass furnace.
+Glass is a fairly valuable material and can be a decent early trade good.  If you have a bag, you can create an order to collect sand at a glass furnace.
 [B]
-Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.
+In order to collect sand, you need to create a sand collection activity zone.
+[LINK:data/help/menu_activity_zones]Activity Zones[/LINK]
+[B]
+Using sand, you can create green glass goods at the glass furnace.  Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.
 Pearlash is potash which has been baked in a kiln.  As described in the paragraph on fertilizing farms, potash is obtained by evaporating
 lye water, and lye water is obtained from soaking wood ash at the ashery.
 [B]

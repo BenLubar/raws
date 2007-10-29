@@ -1,9 +1,8 @@
 building_clutter
-[TITLE]The Manual:  Building Clutter[/TITLE]
+[TITLE]The Manual: Building Clutter[/TITLE]
 When viewing building tasks or items, the amount of clutter is displayed at the top right of the menu.  Clutter is caused by items in the building.
 [B]
 Building clutter slows tasks:
-[B]
 [C:0:0:1](CLT)[C:7:0:0] Work is slowed by two times.[R]
 [C:7:0:0](CLT)[C:7:0:0] Work is slowed by three times.[R]
 [C:7:0:1](CLT)[C:7:0:0] Work is slowed by four times.[R]
@@ -12,8 +11,7 @@ Building clutter slows tasks:
 [C:4:0:1](CLT)[C:7:0:0] Work is slowed by seven times.[R]
 [C:5:0:1](CLT)[C:7:0:0] Work is slowed by eight times.[R]
 [C:5:0:1]*CLT*[C:7:0:0] Work is slowed by nine times.[R]
-[C:5:0:1][CHAR:15]CLT[CHAR:15][C:7:0:0] Work is slowed by ten times.
-[B]
+[C:5:0:1][CHAR:15]CLT[CHAR:15][C:7:0:0] Work is slowed by ten times.[R]
 In order to reduce clutter, you must remove items from the building.  You can do this by storing them properly.
 [B]
-[LINK:data\help\storage]Storage[/LINK]
+[LINK:data/help/storage]Storage[/LINK]

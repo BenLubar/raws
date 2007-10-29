@@ -1,12 +1,13 @@
 menu_designations
-[TITLE]The Manual:  Designations[/TITLE]
+[TITLE]The Manual: Designations[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_DESIGNATE] from the main view.
 [B][B]
 [C:7:0:1]Description[C:7:0:0]
 [B]
-Here you can designate areas for digging, detailing, plant gathering and wood cutting.
+Here you can designate areas for digging, detailing, plant gathering and wood cutting, among other things.
 [B]
 Use the displayed keys to select which type of activity you are designating.
 [B]
@@ -20,9 +21,13 @@ is always visible.
 Removing designations works in the same way as assigning them.  Any highlighted designations that are encompassed by
 your rectangle will be removed.  This includes any active jobs.
 [B][B]
-[C:7:0:1]Detailing[C:7:0:0]
+[C:7:0:1]Mining[C:7:0:0]
 [B]
-Any rock wall or floor can be detailed, unless it bears ore or rough gems.  Detailing increases the value of rooms, which makes the dwarves happier and attracts more dwarves to your fortress.  The first time you engrave a surface, it will be smoothed.  The second time you engrave, it will be detailed with more valuable artwork.
+A few things to keep in mind:  You must connect a down staircase to an upward staircase in the level below.  If you select a floor as a channel, your dwarf will dig out the wall below as well.  Regular mining leaves a floor layer betwen adjacent levels.
+[B][B]
+[C:7:0:1]Smoothing/Engraving[C:7:0:0]
+[B]
+Any rock wall or floor can be smoothed.  Smoothing increases the value of rooms, which makes the dwarves happier and attracts more dwarves to your fortress.  You can subsequently make engravings in the smooth surface to increase the value further.
 [B][B]
 [C:7:0:1]Fortifications[C:7:0:0]
 [B]
@@ -31,3 +36,15 @@ monetary value, as opposed to normal detailed walls.  However, dwarves can fire 
 with crossbows, they can be positioned safely behind fortifications, which still act as walls.
 [B]
 In addition, units cannot fire through fortifications from a distance unless they make a skill roll, so you dwarves can fire safely through them even at enemy ranged units.
+[B][B]
+[C:7:0:1]Forbid/Reclaim[C:7:0:0]
+[B]
+Use these designations to stop a dwarf from using an item or to reclaim an item that has been forbidden.  When you send an expedition to reclaim an old fortress, all of the items there will start out forbidden.
+[B][B]
+[C:7:0:1]Constructions[C:7:0:0]
+[B]
+You can remove constructions (such as wall and floor sections you've made from blocks) using the Remove Construction designations.  You cannot mine or make engravings on these sections.
+[B][B]
+[C:7:0:1]Traffic Designations[C:7:0:0]
+[B]
+You can set traffic areas to bias the movement of your dwarves.  Dwarves will prefer to walk through high traffic areas.  Normal traffic areas are not displayed.  A restricted traffic area does not prevent pathing, but dwarves will seldom use restricted areas if there is another way to get to their goal.

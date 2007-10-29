@@ -1,5 +1,6 @@
 menu_buildjob
-[TITLE]The Manual:  Building Tasks[/TITLE]
+[TITLE]The Manual: Building Tasks[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDJOB] from the main view.
@@ -26,7 +27,5 @@ Many buildings have specialized menus:
 [LINK:data/help/menu_buildjob_shop]Shop Menu[/LINK]
 [LINK:data/help/menu_buildjob_lever]Lever Menu[/LINK]
 [LINK:data/help/menu_buildjob_siege]Siege Engine Menu[/LINK]
-[LINK:data/help/menu_buildjob_channel]Channel Menu[/LINK]
 [LINK:data/help/menu_buildjob_door]Door Menu[/LINK]
 [LINK:data/help/menu_buildjob_animaltrap]Animal Trap Menu[/LINK]
-[LINK:data/help/menu_buildjob_rackstand]Weapon Rack/Armor Stand Menu[/LINK]

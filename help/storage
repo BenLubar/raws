@@ -1,5 +1,5 @@
 storage
-[TITLE]The Manual:  Storage[/TITLE]
+[TITLE]The Manual: Storage[/TITLE]
 If you aren't careful, your fortress can become a cluttered and inefficient mess.
 In fact, you'll find one of your principal roles in managing the fortress is to get food, materials and finished goods to
 move around efficiently.
@@ -13,13 +13,12 @@ has some free time.
 Using the mastery option, you can make piles take objects from other piles to create a flow of goods throughout
 the fortress.
 [B]
-[LINK:data\help\menu_stockpiles]Designating Stockpiles[/LINK]
-[LINK:data\help\menu_professions]Setting Professions[/LINK]
+[LINK:data/help/menu_stockpiles]Designating Stockpiles[/LINK]
+[LINK:data/help/menu_professions]Setting Professions[/LINK]
 [B][B]
 [C:7:0:1]Bins[C:7:0:0]
 [B]
-Stockpiles fill up quickly.  In order to consolidate objects and save space, dwarves use bins.  Bins are always made of wood (cheap and light!), and
-you can order their construction at the carpenter's workshop.
+Stockpiles fill up quickly.  In order to consolidate objects and save space, dwarves use bins.
 [B]
 Once you make a bin, the dwarves will move it to a furniture stockpile.  The next time a bin is needed, a dwarf will place an object in the bin, and then the bin will be moved to the proper stockpile.  All you have to do is provide a consistent supply of bins.
 [B][B]

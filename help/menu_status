@@ -1,5 +1,6 @@
 menu_status
-[TITLE]The Manual:  Overall Status[/TITLE]
+[TITLE]The Manual: Overall Status[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_STATUS] from the main view.
@@ -8,7 +9,7 @@ Press [IKEY:D_STATUS] from the main view.
 [B]
 From the status screen, you can get lots of information about your fortress, as well as make many important designations.
 [B]
-In the beginning, you'll see your food stores and a population breakdown, as well as some options across the top.  When you get some
+In the beginning, you'll see your food stores and a population breakdown, as well as some options across the top.  When you get train some
 administrative dwarves, you'll get also get some additional information about your wealth and trade statistics.
 [B]
 The options at the top take you to additional status screens.
@@ -16,6 +17,8 @@ Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to move, and [IKE
 [B]
 [LINK:data/help/menu_status_animals]Animals[/LINK]
 [LINK:data/help/menu_status_kitchen]Kitchen Preferences[/LINK]
+[LINK:data/help/menu_status_stone]Stone Restrictions[/LINK]
 [LINK:data/help/menu_status_stocks]Stocks[/LINK]
 [LINK:data/help/menu_status_prices]Prices[/LINK]
+[LINK:data/help/menu_status_currency]Currency Counts[/LINK]
 [LINK:data/help/menu_status_justice]Dwarven Justice[/LINK]

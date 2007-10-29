@@ -1,5 +1,5 @@
 living_quarters
-[TITLE]The Manual:  Living Quarters[/TITLE]
+[TITLE]The Manual: Living Quarters[/TITLE]
 Your dwarves don't like to sleep and eat outside in the mud and rain, so you'll like to set up some
 living quarters early on.
 [B][B]
@@ -8,9 +8,6 @@ living quarters early on.
 If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface
 to creating a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,
 the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing.
-[B]
-Noise from jobs disturbs dwarves when they are trying to sleep, so it's important to site your beds at least 4 squares from workshops.
-Building construction/destruction can travel 16 squares, so be careful of building around sleeping quarters if there are dwarves sleeping there.
 [B][B]
 [C:7:0:1]Dining Rooms[C:7:0:0]
 [B]
@@ -28,8 +25,9 @@ meeting hall.
 [B]
 You can also drag out rooms from statues, cages and chains.  This will create sculpture gardens or zoos, respectively.  You can assign
 these rooms to specific dwarves, or you can leave them as general meeting places.
-[B][B]
+[B]
+[B]
 For technical help with these matters, follow these links:
 [B]
-[LINK:data\help\menu_make_buildings]Creating Buildings[/LINK]
-[LINK:data\help\menu_rooms]Creating Rooms[/LINK]
+[LINK:data/help/menu_make_buildings]Creating Buildings[/LINK]
+[LINK:data/help/menu_rooms]Creating Rooms[/LINK]

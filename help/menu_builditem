@@ -1,5 +1,6 @@
 menu_builditem
-[TITLE]The Manual:  View Building Items[/TITLE]
+[TITLE]The Manual: View Building Items[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDITEM] from the main view.
@@ -12,7 +13,6 @@ The contents of the closest building are displayed, along with instructions on h
 order the removal of the building.  You can also view the progress of building construction from this menu.
 [B]
 Depending on the building, some special symbols can appear to give you more information.
-[B]
 [C:3:0:1]TSK[C:7:0:0] A task is associated to this object.[R]
 [C:7:0:1][[B]][C:7:0:0] The object is part of the building.[R]
 [C:6:0:1][[T]][C:7:0:0] The object is a trade good.[R]
@@ -20,8 +20,8 @@ Depending on the building, some special symbols can appear to give you more info
 [C:6:0:0][[B]][C:7:0:0] This object is bait in a trap.[R]
 [C:5:0:1][[L]][C:7:0:0] This object is loaded in a siege engine.[R]
 [C:0:0:1][[B]][C:7:0:0] The object is enclosed in a coffin.[R]
-[C:1:0:1][[B]][C:7:0:0] The object is associated to the building in another way.
+[C:1:0:1][[B]][C:7:0:0] The object is associated to the building in another way.[R]
 [B]
 If the building is cluttered, that information will be displayed at the top right of the menu.
 [B]
-[LINK:data\help\building_clutter]Building Clutter[/LINK]
+[LINK:data/help/building_clutter]Building Clutter[/LINK]

@@ -1,0 +1,10 @@
+menu_status_currency
+[TITLE]The Manual: Currency Counts[/TITLE]
+[B][B]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_STATUS] from the main view, scroll to "Currency" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can see the current count of each type of currency, and a broker recommendation of how much currency to keep around.

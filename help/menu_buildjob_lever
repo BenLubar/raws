@@ -1,5 +1,6 @@
 menu_buildjob_lever
-[TITLE]The Manual:  Lever Menu[/TITLE]
+[TITLE]The Manual: Lever Menu[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDJOB] from the main view and move to a lever (or pressure plate).
@@ -12,8 +13,10 @@ building requires two mechanisms and takes some time.
 [B]
 The effects are as follows:
 [B]
-[C:2:0:1]Bridge[C:7:0:0][LOCX:20]Raise/lower[R]
-[C:2:0:1]Cage/Chain[C:7:0:0][LOCX:20]Release occupants[R]
-[C:2:0:1]Door[C:7:0:0][LOCX:20]Open/close (otherwise unmoveable)[R]
-[C:2:0:1]Floodgate[C:7:0:0][LOCX:20]Open/close[R]
-[C:2:0:1]Support[C:7:0:0][LOCX:20]Collapses[LOCX:20]
+[C:3:0:1]Bridge[C:7:0:0] Raise/lower[R]
+[C:3:0:1]Cage/Chain[C:7:0:0] Release occupants[R]
+[C:3:0:1]Door/Hatch[C:7:0:0] Open/close (otherwise unuseable)[R]
+[C:3:0:1]Floodgate/Grate/Bars[C:7:0:0] Open/close[R]
+[C:3:0:1]Support[C:7:0:0] Collapses[R]
+[C:3:0:1]Spears/Spikes[C:7:0:0] Retract/extend[R]
+[C:3:0:1]Gear assembly[C:7:0:0] Engage/Disengage[R]

@@ -1,0 +1,11 @@
+menu_status_stone
+[TITLE]The Manual: Stone Restrictions[/TITLE]
+[B][B]
+[C:7:0:1]How to Get Here[C:7:0:0]
+[B]
+Press [IKEY:D_STATUS] from the main view, scroll to "Stone" and press [IKEY:SELECT].
+[B][B]
+[C:7:0:1]Description[C:7:0:0]
+[B]
+Here you can set whether or not the economically valuable stones are used by the mason and others for tasks that don't relate directly to their primary economic value.  For instance, limestone can be used in the production of steel, but if you select limestone here, you can use it to make a limestone throne or limestone trinkets.
+Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.

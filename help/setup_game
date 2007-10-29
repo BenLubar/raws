@@ -1,7 +1,9 @@
 setup_game
-[TITLE]The Manual:  Preparing For The Journey[/TITLE]
+[TITLE]The Manual: Preparing For The Journey[/TITLE]
 Now that the world has been generated, it's time to prepare your settlers to travel.  There are three main screens.
 Instructions for which keys to press are displayed at the bottom of each screen.
+[B]
+The Site Selection Screen shows you where your fortress is located, and the general characteristics of the surrounding area.  You can place your fortress in any location so long the selection rectangle isn't entirely in an ocean, lake or mountain biome.
 [B]
 The Unit Preparation Screen has a list of the dwarves that are going on the journey and their skills.
 Dwarves learn as they work, so it's not essential to spend a lot of points here, but you might find it convenient to
@@ -14,5 +16,3 @@ These points are also used to buy equipment on the Equipment Preparation Screen.
 [B]
 The Equipment Preparation Screen is the most complicated of the three screens.  The list of objects your dwarves are bringing along appears on the left, and the list of animals going on the journey appears on the right.  If you choose to add a new object, you'll be taken to a screen with a list of all the potential items that you can bring.  Type in a partial name to narrow the list.
 You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN_TEXT].
-[B]
-The Site Selection Screen shows you where your fortress is located, and the general characteristics of the surrounding area.  In the beginning, you have fifty potential locations for your outpost, selected by the dwarves for their likelihood to bear valuable metal ores.

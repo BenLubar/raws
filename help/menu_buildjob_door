@@ -1,5 +1,6 @@
 menu_buildjob_door
-[TITLE]The Manual:  Door Menu[/TITLE]
+[TITLE]The Manual: Door Menu[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_BUILDJOB] from the main view and move to a door.
@@ -8,9 +9,9 @@ Press [IKEY:D_BUILDJOB] from the main view and move to a door.
 [B]
 Doors have three major settings.
 [B]
-You can set a door as locked.  This does not mean it is locked in that it won't stop invaders, but it means your dwarves are forbidden from using it.
+You can set a door as forbidden.  This will stop your dwarves from passing through it during their regular activities.
 [B]
-You can set a door to be kept ajar.  This means that your pets and invaders can use the door freely.
+You can set a door to be kept tightly closed.  This means that your pets cannot use the door freely.
 [B]
 A door can also be set as internal.  This means that the door will not stop the room plan from flowing through during room creation.
 [B]

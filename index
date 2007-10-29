@@ -16,7 +16,7 @@ index
 15~DWARF_LIAISON
 16~HUMAN_TRADE
 17~ELVES_STANDARD
-18~v0.23.130.23a, Copyright (C) 2002-2006 by Tarn Adams
+18~v0.27.169.32a
 19~Notice - This is an alpha.  Please view readme.txt before playing.
 20~Programmed by Tarn Adams
 21~Designed by Tarn and Zach Adams
@@ -24,21 +24,30 @@ index
 23~www.bay12games.com
 24~Dwarf Fortress
 25~Adventurer
-26~data\announcement\end1
-27~data\announcement\end2
-28~data\announcement\end3
-29~data\announcement\end4
-30~data\save\permits
-31~data\help\a_main
-32~Legends
-33~Reclaim Fortress
-34~data\help\r_main
-35~data\initial_movies\bay12games.cmv
-36~data\initial_movies\toadyone.cmv
-37~data\initial_movies\dwarf_fortress.cmv
-38~data\movies\last_record.cmv
-39~Really?  You're playing like a peasant.
-40~Really?  I thought you should quit.
-41~Slaves to Armok:  God of Blood
-42~Chapter II: Dwarf Fortress
-43~Dwarf Fortress
+26~data\announcement\end2
+27~data\announcement\end3
+28~data\announcement\end4
+29~data\save\permits
+30~data\help\a_main
+31~Legends
+32~Reclaim Fortress
+33~data\help\r_main
+34~data\initial_movies\bay12games.cmv
+35~data\initial_movies\toadyone.cmv
+36~data\initial_movies\dwarf_fortress.cmv
+37~data\movies\last_record.cmv
+38~Really?  You're playing like a peasant.
+39~Really?  I thought you should quit.
+40~Slaves to Armok:  God of Blood
+41~Chapter II: Dwarf Fortress
+42~Dwarf Fortress
+43~Copyright (C) 2002-2007 by Tarn Adams
+44~                   Welcome to the alpha of Dwarf Fortress.
+45~  As there has been some time between releases, instability is to be expected.
+46~  Report crashes, hangs, lags, bugs and general disappointment at the forums.
+47~      They are at our website, bay12games.com.  Check there for updates.
+48~     You can also find an older yet more stable version of the game there.
+49~ As of October 2007, you can get help at the fan-created dwarffortresswiki.net.
+50~         Please make use of and contribute to this valuable resource.
+51~        If you enjoy the game, please consider supporting Bay 12 Games.
+52~       There is more information at our web site and in the readme file.

@@ -1,6 +1,6 @@
 accounts
-[TITLE]The Manual:  Accounts[/TITLE]
-Once you get a manager and a bookkeeper, your dwarves will all be given accounts in the currency of the dwarven kingdom.
+[TITLE]The Manual: Accounts[/TITLE]
+Once you get a baron, your dwarves will all be given accounts in the currency of the dwarven kingdom.
 [B]
 They can no longer freely acquire goods, or even food, but instead must purchase these things.  The only exception is that penniless starving
 dwarves can eat the cheapest food items in the fortress.
@@ -14,6 +14,8 @@ Other dwarves must obtain money by doing tasks or running shops.
 Once accounts are active, dwarves will want shiny coins to reflect their balances.  The bookkeeper sets mandates that let you know how many coins to make.
 These mandates are exceptional in that there are no punishments associated to them.  Dwarves will periodically bring coins to their rooms or give
 up coins if they have too many.
+[B]
+[LINK:data/help/menu_status_currency]Currency Counts[/LINK]
 [B][B]
 [C:7:0:1]Shops[C:7:0:0]
 [B]

@@ -1,39 +1,39 @@
 icons_dwarf
-[TITLE]The Manual:  Icons[/TITLE]
+[TITLE]The Manual: Icons[/TITLE]
+[B][B]
 [C:7:0:1]Dwarves / Professions[C:7:0:0]
 [B]
-[C:1:0:0][CHAR:1][C:7:0:0] Fisherdwarf
-[LOCX:40][C:1:0:0][CHAR:2][C:7:0:0] Axedwarf[R]
-[C:1:0:1][CHAR:1][C:7:0:0] Craftsdwarf
-[LOCX:40][C:1:0:1][CHAR:2][C:7:0:0] Axe Lord[R]
-[C:2:0:0][CHAR:1][C:7:0:0] Trapper
-[LOCX:40][C:2:0:0][CHAR:2][C:7:0:0] Marksdwarf[R]
-[C:2:0:1][CHAR:1][C:7:0:0] Jeweler
-[LOCX:40][C:2:0:1][CHAR:2][C:7:0:0] Elite Marksdwarf[R]
-[C:3:0:0][CHAR:1][C:7:0:0] Peasant
-[LOCX:40][C:3:0:0][CHAR:2][C:7:0:0] Swordsdwarf[R]
-[C:3:0:1][CHAR:1][C:7:0:0] Royal Consort
-[LOCX:40][C:3:0:1][CHAR:2][C:7:0:0] Swordmaster[R]
-[C:4:0:0][CHAR:1][C:7:0:0] Child
-[LOCX:40][C:4:0:0][CHAR:2][C:7:0:0] Macedwarf[R]
-[C:4:0:1][CHAR:1][C:7:0:0] Mechanic
-[LOCX:40][C:4:0:1][CHAR:2][C:7:0:0] Mace Lord[R]
-[C:5:0:0][CHAR:1][C:7:0:0] Noble/Administrator
-[LOCX:40][C:5:0:0][CHAR:2][C:7:0:0] Hammerdwarf[R]
-[C:5:0:1][CHAR:1][C:7:0:0] King/Queen
-[LOCX:40][C:5:0:1][CHAR:2][C:7:0:0] Hammer Lord[R]
-[C:6:0:0][CHAR:1][C:7:0:0] Farmer
-[LOCX:40][C:6:0:0][CHAR:2][C:7:0:0] Speardwarf[R]
-[C:6:0:1][CHAR:1][C:7:0:0] Carpenter
-[LOCX:40][C:6:0:1][CHAR:2][C:7:0:0] Spearmaster[R]
-[C:0:0:1][CHAR:1][C:7:0:0] Blacksmith
-[LOCX:40][C:0:0:1][CHAR:2][C:7:0:0] Recruit[R]
-[C:7:0:0][CHAR:1][C:7:0:0] Miner
-[LOCX:40][C:7:0:0][CHAR:2][C:7:0:0] Wrestler[R]
-[C:7:0:1][CHAR:1][C:7:0:0] Mason
-[LOCX:40][C:7:0:1][CHAR:2][C:7:0:0] Elite Wrestler[R]
-[B]
-[C:7:0:0][CHAR:~@][C:7:0:0] Merchant
-[LOCX:40][C:1:0:0][CHAR:~@][C:7:0:0] Bodyguard / Castle Guard[R]
-[C:7:0:1][CHAR:~@][C:7:0:0] Diplomat
-[LOCX:40][C:5:0:0][CHAR:~@][C:7:0:0] Royal Guard[R]
+[C:1:0:0][CHAR:1][C:7:0:0] Fishery Worker[R]
+[C:1:0:0][CHAR:2][C:7:0:0] Axedwarf[R]
+[C:1:0:1][CHAR:1][C:7:0:0] Craftsdwarf[R]
+[C:1:0:1][CHAR:2][C:7:0:0] Axe Lord[R]
+[C:2:0:0][CHAR:1][C:7:0:0] Ranger[R]
+[C:2:0:0][CHAR:2][C:7:0:0] Marksdwarf[R]
+[C:2:0:1][CHAR:1][C:7:0:0] Jeweler[R]
+[C:2:0:1][CHAR:2][C:7:0:0] Elite Marksdwarf[R]
+[C:3:0:0][CHAR:1][C:7:0:0] Peasant[R]
+[C:3:0:0][CHAR:2][C:7:0:0] Swordsdwarf[R]
+[C:3:0:1][CHAR:1][C:7:0:0] Royal Consort[R]
+[C:3:0:1][CHAR:2][C:7:0:0] Swordmaster[R]
+[C:4:0:0][CHAR:1][C:7:0:0] Child[R]
+[C:4:0:0][CHAR:2][C:7:0:0] Macedwarf[R]
+[C:4:0:1][CHAR:1][C:7:0:0] Engineer[R]
+[C:4:0:1][CHAR:2][C:7:0:0] Mace Lord[R]
+[C:5:0:0][CHAR:1][C:7:0:0] Noble/Administrator[R]
+[C:5:0:0][CHAR:2][C:7:0:0] Hammerdwarf[R]
+[C:5:0:1][CHAR:1][C:7:0:0] King/Queen[R]
+[C:5:0:1][CHAR:2][C:7:0:0] Hammer Lord[R]
+[C:6:0:0][CHAR:1][C:7:0:0] Farmer[R]
+[C:6:0:0][CHAR:2][C:7:0:0] Speardwarf[R]
+[C:6:0:1][CHAR:1][C:7:0:0] Woodworker[R]
+[C:6:0:1][CHAR:2][C:7:0:0] Spearmaster[R]
+[C:0:0:1][CHAR:1][C:7:0:0] Metalsmith[R]
+[C:0:0:1][CHAR:2][C:7:0:0] Recruit[R]
+[C:7:0:0][CHAR:1][C:7:0:0] Miner[R]
+[C:7:0:0][CHAR:2][C:7:0:0] Wrestler[R]
+[C:7:0:1][CHAR:1][C:7:0:0] Stoneworker[R]
+[C:7:0:1][CHAR:2][C:7:0:0] Elite Wrestler[R]
+[C:7:0:0]@[C:7:0:0] Merchant[R]
+[C:1:0:0]@[C:7:0:0] Bodyguard / Castle Guard[R]
+[C:7:0:1]@[C:7:0:0] Diplomat[R]
+[C:5:0:0]@[C:7:0:0] Royal Guard[R]

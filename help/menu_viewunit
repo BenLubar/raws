@@ -1,5 +1,6 @@
 menu_viewunit
-[TITLE]The Manual:  Viewing Units[/TITLE]
+[TITLE]The Manual: Viewing Units[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_VIEWUNIT] from the main view and move the cursor to a unit.
@@ -10,7 +11,7 @@ There are several options from this screen.
 [B][B]
 [C:7:0:1]General[C:7:0:0]
 [B]
-Here you can see a creature's type, active job and skills.
+Here you can see a creature's type, active job and skills.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll the skill list.
 [B][B]
 [C:7:0:1]Inventory[C:7:0:0]
 [B]
@@ -30,13 +31,12 @@ induct a dwarf into the fortress or royal guards.  Finally, you can view a dwarf
 You can see the creature's body status here.  As the creature becomes more injured, scrolling becomes available.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll.
 [B]
 Here are the wound levels:
-[B]
 [C:7:0:1]Fine[C:7:0:0][R]
 [C:7:0:0]Superficial Injury[C:7:0:0][R]
 [C:6:0:0]Minor Injury[C:7:0:0][R]
 [C:6:0:1]Broken[C:7:0:0][R]
 [C:4:0:1]Mangled[C:7:0:0][R]
-[C:0:0:1]Gone[C:7:0:0]
+[C:0:0:1]Gone[C:7:0:0][R]
 [B]
 Creatures do not have a "life rating", although they can bleed to death.  If the injury level of the head, upper body or lower body reaches the most
 severe level, the creature also dies.  Small creatures have difficulty injuring larger creatures.

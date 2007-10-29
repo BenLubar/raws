@@ -1,19 +1,16 @@
 table_item_designations
-[TITLE]The Manual:  Item Designations[/TITLE]
-[C:6:0:1]-Sword-[LOCX:20][C:7:0:0]Well-crafted[R]
-[C:6:0:1]+Sword+[LOCX:20][C:7:0:0]Finely-crafted[R]
-[C:6:0:1]*Sword*[LOCX:20][C:7:0:0]Superior quality[R]
-[C:6:0:1][CHAR:240]Sword[CHAR:240][LOCX:20][C:7:0:0]Exceptional[R]
-[C:6:0:1][CHAR:15]Sword[CHAR:15][LOCX:20][C:7:0:0]A masterpiece
-[B]
-[C:6:0:1][CHAR:174]Sword[CHAR:175][LOCX:20][C:7:0:0]Improved or decorated
-[B]
-[C:6:0:1](Sword)[LOCX:20][C:7:0:0]Not produced on-site, does not count towards wealth
-[B]
-[C:6:0:1]xSwordx[LOCX:20][C:7:0:0]Somewhat damaged[R]
-[C:6:0:1]XSwordX[LOCX:20][C:7:0:0]Damaged[R]
-[C:6:0:1]XXSwordXX[LOCX:20][C:7:0:0]Very damaged
-[B]
-[C:6:0:1][CHAR:17]Sword[CHAR:16][LOCX:20][C:7:0:0]Magical
-[B]
-[C:6:0:1]$Sword$[LOCX:20][C:7:0:0]For Sale (Adventure Mode)
+[TITLE]The Manual: Item Designations[/TITLE]
+[C:6:0:1]-Sword-[C:7:0:0] Well-crafted[R]
+[C:6:0:1]+Sword+[C:7:0:0] Finely-crafted[R]
+[C:6:0:1]*Sword*[C:7:0:0] Superior quality[R]
+[C:6:0:1][CHAR:240]Sword[CHAR:240][C:7:0:0] Exceptional[R]
+[C:6:0:1][CHAR:15]Sword[CHAR:15][C:7:0:0] A masterpiece[R]
+[C:6:0:1][CHAR:174]Sword[CHAR:175][C:7:0:0] Improved or decorated[R]
+[C:6:0:1]*[CHAR:174]Sword[CHAR:175]*[C:7:0:0] Superior improvement[R]
+[C:6:0:1][CHAR:19]Sword[CHAR:19][C:7:0:0] On fire[R]
+[C:6:0:1](Sword)[C:7:0:0] Not produced on-site, does not count towards wealth[R]
+[C:6:0:1]{Sword}[C:7:0:0] Unclaimed/Forbidden[R]
+[C:6:0:1]xSwordx[C:7:0:0] Somewhat damaged[R]
+[C:6:0:1]XSwordX[C:7:0:0] Damaged[R]
+[C:6:0:1]XXSwordXX[C:7:0:0] Very damaged[R]
+[C:6:0:1][CHAR:17]Sword[CHAR:16][C:7:0:0] Magical[R]

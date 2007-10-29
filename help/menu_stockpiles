@@ -1,5 +1,6 @@
 menu_stockpiles
-[TITLE]The Manual:  Stockpiles[/TITLE]
+[TITLE]The Manual: Stockpiles[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
 Press [IKEY:D_STOCKPILES] from the main view.
@@ -8,7 +9,7 @@ Press [IKEY:D_STOCKPILES] from the main view.
 [B]
 Your dwarves use stockpiles to store all of your finished, intermediate and raw objects.
 [B]
-[LINK:data\help\storage]More on Storage[/LINK]
+[LINK:data/help/storage]More on Storage[/LINK]
 [B]
 When you get to the stockpile menu, you'll be faced by several stockpile options.  Each of these stockpile
 types holds different kinds of objects.
@@ -18,14 +19,9 @@ Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of st
 [B]
 Once you create a stockpile, you can set it to take goods from another stockpile.
 [B]
-[LINK:data\help\menu_buildjob_stockpile]Individual Stockpile Menu[/LINK]
+[LINK:data/help/menu_buildjob_stockpile]Individual Stockpile Menu[/LINK]
 [B]
 Some stockpiles merit a bit of discussion.
-[B][B]
-[C:7:0:1]Mining Stockpile[C:7:0:0]
-[B]
-A mining stockpile holds both ore and stone.  It can be a convenient way to clear out tunnels.  Then you can set up a stone pile near your mason
-and an ore pile near your smelter, and set these piles to take from the mining pile to create a flow of stone and ore.
 [B][B]
 [C:7:0:1]Refuse Stockpile[C:7:0:0]
 [B]

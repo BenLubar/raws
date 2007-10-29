@@ -1,15 +1,15 @@
 defense
-[TITLE]The Manual:  Defending the Fortress[/TITLE]
+[TITLE]The Manual: Defending the Fortress[/TITLE]
 You have two main methods of defending yourself:  soldiers and traps.
 [B][B]
 [C:7:0:1]Soldiers[C:7:0:0]
 [B]
-At any time, any dwarf that doesn't have a specific function (such as the bookkeeper) can be recruited for service.
+At any time, any dwarf that isn't a noble or a child can be recruited for service.
 This is done from the military screen, where the dwarves can be organized into squads.
 Weapon preferences can be set from the soldier preferences menu.
 [B]
-[LINK:data\help\menu_military]The Military Screen[/LINK]
-[LINK:data\help\menu_soldier_prefs]Setting Soldier Preferences[/LINK]
+[LINK:data/help/menu_military]The Military Screen[/LINK]
+[LINK:data/help/menu_soldier_prefs]Setting Soldier Preferences[/LINK]
 [B]
 Dwarves with no weapon skills do not like being drafted, and dwarves with no craft skills do not like being relieved.
 [B]
@@ -22,4 +22,4 @@ Traps are another effective method of thwarting your opposition.  These come in 
 depend on the trap, but all traps need mechanisms.  You can link levers and pressure plates to certain furniture to
 trigger more elaborate traps.
 [B]
-[LINK:data\help\menu_buildjob_lever]The Lever Menu[/LINK]
+[LINK:data/help/menu_buildjob_lever]The Lever Menu[/LINK]

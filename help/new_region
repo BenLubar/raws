@@ -1,7 +1,7 @@
 new_region
-[TITLE]The Manual:  Creating Your World[/TITLE]
+[TITLE]The Manual: Creating Your World[/TITLE]
 When you start your first game, you'll notice that it goes through a lengthy world generation process.
-You only have to do this once in a long while, so sit back and enjoy it.  It can take a while.
+You only have to do this once in a long while, so sit back and enjoy it.
 [B]
 At first, the game produces
 several fractally generated landscapes, searching for an ideal balance.  You'll notice that there are
@@ -9,13 +9,9 @@ many rejects, sometimes well over one hundred.  This is normal -- you'll be play
 in this world, so it's important that terrain is evenly distributed.
 [B]
 After the basic terrain is prepared,
-the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects after at this point.
+the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects at this point.
 [B]
-Once the history animation begins, you are watching the world you'll be playing in.  The civilizations
-that are spreading out over the ages will be the same ones you interact with when you are running a fortress or playing an adventurer.
+Once the history animation begins, you are indeed watching the world you'll be playing in.  The civilizations
+that are spreading out and fighting over the ages will be the same ones you interact with when you are running a fortress.
 [B]
 When history catches up with the present time, the animated world map becomes a piece of parchment and you are prompted to continue.
-At this point, you'll have an option to export an image of your world (you can do this later from the Legends screen).  When you
-decide to continue, the region will be exported to the disk (this also takes time).  Then you'll be back at the main menu, with new
-play options.  Select Start Playing to begin.  Continue reading this manual for information on making a Dwarf Fortress.  Go to the Adventurer's Manual
-for information on playing a single character.

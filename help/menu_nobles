@@ -1,8 +1,9 @@
 menu_nobles
-[TITLE]The Manual:  Nobles[/TITLE]
+[TITLE]The Manual: Nobles and Administrators[/TITLE]
+[B][B]
 [C:7:0:1]How to Get Here[C:7:0:0]
 [B]
-If you have a noble, press [IKEY:D_NOBLES] from the main view.
+Press [IKEY:D_NOBLES] from the main view.
 [B][B]
 [C:7:0:1]Description[C:7:0:0]
 [B]
@@ -11,11 +12,9 @@ Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEU
 [B]
 Press [IKEY:SELECT] to view a noble's profile.  You can get specifics about requirements, demands and mandates here.
 [B]
-[LINK:data\help\unit_profile]Unit Profiles[/LINK]
+You can also appoint dwarves for adminstrative tasks and set bookkeeper precision.
 [B]
-The nobles are ordered by their rank.
-[B]
-[LINK:data\help\table_nobles]Obtaining and Using Nobles[/LINK]
+[LINK:data/help/unit_profile]Unit Profiles[/LINK]
 [B]
 On the right, you'll see three categories, which will now be described.
 [B][B]
@@ -26,8 +25,7 @@ Nobles have required rooms and furniture.  The color of [[REQUIREMENT]] refers t
 [C:7:0:1][[REQUIREMENT]][C:7:0:0] All requirement met.[R]
 [C:6:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is only partially met.[R]
 [C:4:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is being completely ignored.[R]
-[C:0:0:1][[REQUIREMENT]][C:7:0:0] No requirements.
-[B]
+[C:0:0:1][[REQUIREMENT]][C:7:0:0] No requirements.[R]
 Nobles can become angry or sad if their requirements are not met, but there are no formal legal repercussions.
 [B][B]
 [C:7:0:1]Demands[C:7:0:0]
@@ -38,8 +36,7 @@ Nobles occasionally demand additional furnishings.  The color of [[DEMAND]] refe
 [C:6:0:0][[DEMAND]][C:7:0:0] At least one demand is not met, but you have time.[R]
 [C:6:0:1][[DEMAND]][C:7:0:0] At least one demand is running out of time.[R]
 [C:4:0:1][[DEMAND]][C:7:0:0] At least one demand failure is being noticed by the noble.[R]
-[C:0:0:1][[DEMAND]][C:7:0:0] No demands at present.
-[B]
+[C:0:0:1][[DEMAND]][C:7:0:0] No demands at present.[R]
 Nobles can become angry or sad if their demands are not met, but there are no formal legal repercussions.
 [B][B]
 [C:7:0:1]Mandates[C:7:0:0]
@@ -50,6 +47,6 @@ Nobles also have the power to make formal legal mandates.  The color of [[MANDAT
 [C:6:0:0][[MANDATE]][C:7:0:0] At least one mandate is timed, but you have plenty left.[R]
 [C:6:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is at least half-way to expiration.[R]
 [C:4:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is about to expire.[R]
-[C:0:0:1][[MANDATE]][C:7:0:0] No mandates at present.
+[C:0:0:1][[MANDATE]][C:7:0:0] No mandates at present.[R]
 [B]
-[LINK:data\help\menu_status_justice]Dwarven Justice[/LINK]
+[LINK:data/help/menu_status_justice]Dwarven Justice[/LINK]
