@@ -33,7 +33,7 @@ Certain varieties of stone, like limestone, are used to further operations at th
 Metal is more valuable than stone, but also harder to find and process.  The ore that you find must
 be refined at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge.
 [B]
-These processes require fuel.  You can use charcoal made from food, or coal fuel from coal refined from the mountain.
+These processes require fuel.  You can use charcoal made from wood, or coal fuel from coal refined from the mountain.
 [B]
 A metalsmith's forge requires an anvil.  You can either bring one with you or request one from the outpost liaison and trade for it the next year.
 [B][B]
@@ -93,7 +93,7 @@ You can also substitute sand for rock crystal in the clear glass recipe to make 
 [B][B]
 [C:7:0:1]Soap[C:7:0:0]
 [B]
-Soap is a fairly valuable commodity, and one of the key ingredients is animal fat, which will otherwise rot away in your refuse piles.
+Soap is a fairly valuable commodity, but its creation is somewhat involved.
 First, you need to create an alchemist's lab.  Read about clear glass above to figure out how to make the glass vials you'll need
 for the lab.  Once you have the lab, lye and some rendered fat, you can produce soap.  The value of soap depends on the creature.
 Unrotten fat can be rendered in the kitchen.

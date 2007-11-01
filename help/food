@@ -28,6 +28,9 @@ In order to fish you need:
 [C:6:0:1][CHAR:15][C:2:0:1] A nearby water source or a fishing activity zone
 [C:7:0:0]
 [B]
+[B]
+Fish need to be cleaned after you catch them.  You'll need to construct a fishery to do this.
+[B]
 For technical help with these matters, follow this link:
 [B]
 [LINK:data/help/menu_professions]Setting Professions[/LINK]
@@ -40,9 +43,6 @@ In order to hunt you need:
 [B]
 [C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Hunting profession, preferably armed with a ranged weapon
 [C:7:0:0]
-[B]
-[B]
-Fish need to be cleaned after you catch them.  You'll need to construct a fishery to do this.
 [B]
 For technical help with these matters, follow these links:
 [B]
