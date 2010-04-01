@@ -19,29 +19,15 @@ These are objects in the creature's possession.  Use [IKEY:SECONDSCROLL_DOWN][IK
 [B][B]
 [C:7:0:1]Preferences[C:7:0:0]
 [B]
-This is where you assign professions, work dogs and soldiering preferences.  You can also activate or deactivate a dwarf's squad from here or
-induct a dwarf into the fortress or royal guards.  Finally, you can view a dwarf's profile here.
+This is where you assign professions and work dogs.  You can also view a dwarf's profile here.
 [B]
 [LINK:data/help/unit_profile]Unit Profiles[/LINK]
 [LINK:data/help/menu_professions]Setting Professions[/LINK]
-[LINK:data/help/menu_soldier_prefs]Soldiering Preferences[/LINK]
 [B][B]
 [C:7:0:1]Wounds[C:7:0:0]
 [B]
 You can see the creature's body status here.  As the creature becomes more injured, scrolling becomes available.  Use [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN] to scroll.
 [B]
-Here are the wound levels:
-[C:7:0:1]Fine[C:7:0:0][R]
-[C:7:0:0]Superficial Injury[C:7:0:0][R]
-[C:6:0:0]Minor Injury[C:7:0:0][R]
-[C:6:0:1]Broken[C:7:0:0][R]
-[C:4:0:1]Mangled[C:7:0:0][R]
-[C:0:0:1]Gone[C:7:0:0][R]
+Creatures do not have a "life rating", although they can bleed to death.  Small creatures have difficulty injuring larger creatures.
 [B]
-Creatures do not have a "life rating", although they can bleed to death.  If the injury level of the head, upper body or lower body reaches the most
-severe level, the creature also dies.  Small creatures have difficulty injuring larger creatures.
-[B]
-Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest.
-Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back.
-[B]
-If you keep hospital beds available (these are beds without rooms), the dwarves will use them to heal faster.
+Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.  Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back.

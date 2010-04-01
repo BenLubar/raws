@@ -3,16 +3,6 @@ technical
 See readme.txt for the license.
 See file_changes.txt for new init/interface information.
 See command_line.txt for information on world generation from command lines.
-Go to
-[B]
-http://www.bay12games/dwarves/faq.html
-[B]
-for Frequently Asked Questions and their answers.
-Go to
-[B]
-http://www.bay12games/dwarves/dev_now.html
-[B]
-to see a full list of changes.
 [B][B]
 [C:7:0:1]TO BACKUP SAVES:[C:7:0:0]
 [B]
@@ -20,12 +10,11 @@ to see a full list of changes.
 [B]
 (2) When you want to reuse it, copy that region back to "data/save".  Do *NOT* overwrite an old folder, as it might leave residual files.
 [B]
-Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game
-is also an alpha, and your world might become corrupted by an error.  You can also make use of the auto save features settable in "data/init/init.txt".
+Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game is also an alpha, and your world might become corrupted by an error.  You can also make use of the auto save features settable in "data/init/init.txt".
 [B][B]
 [C:7:0:1]TO USE OLD SAVES WHEN UPDATING VERSIONS:[C:7:0:0]
 [B]
-(0) ***Note that version 0.27.169.32a is not compatible with old versions.***
+(0) ***Note that version 0.31+ is not compatible with older versions.***
 [B]
 (1) Unzip the new dwarves into a *NEW* folder.
 [B]

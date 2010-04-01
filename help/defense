@@ -6,15 +6,13 @@ You have two main methods of defending yourself:  soldiers and traps.
 [B]
 At any time, any dwarf that isn't a noble or a child can be recruited for service.
 This is done from the military screen, where the dwarves can be organized into squads.
-Weapon preferences can be set from the soldier preferences menu.
 [B]
 [LINK:data/help/menu_military]The Military Screen[/LINK]
 [LINK:data/help/menu_soldier_prefs]Setting Soldier Preferences[/LINK]
 [B]
 Dwarves with no weapon skills do not like being drafted, and dwarves with no craft skills do not like being relieved.
 [B]
-Dwarves do not like serving on active duty for long periods of time.  Use the squad settings in the military screen
-to relieve squads for a time.  Squads that are standing down will train if you have a barracks or archery targets.
+Dwarves do not like serving on active duty for long periods of time.  Use the schedule options in the military screen to relieve squads for a time.  Squads that are standing down will train if you have a barracks or archery targets.
 [B][B]
 [C:7:0:1]Traps[C:7:0:0]
 [B]
