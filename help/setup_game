@@ -15,4 +15,4 @@ The amount of points you have is displayed on the lower right.
 These points are also used to buy equipment on the Equipment Preparation Screen.
 [B]
 The Equipment Preparation Screen is the most complicated of the three screens.  The list of objects your dwarves are bringing along appears on the left, and the list of animals going on the journey appears on the right.  If you choose to add a new object, you'll be taken to a screen with a list of all the potential items that you can bring.  Type in a partial name to narrow the list.
-You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN_TEXT].
+You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN].

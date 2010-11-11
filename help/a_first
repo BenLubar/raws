@@ -1,20 +1,19 @@
 a_first
 [TITLE]The Manual: Your First Adventurer[/TITLE]
-First you need to create your adventurer.
+Before you begin, you need to create your adventurer.
 [B]
-If you select Play Now!, you'll start at one of your dwarven fortresses if one
-exists, otherwise you'll start in town.  In Play Now!, you have no equipment and no skills (later this will be replaced by a scenario system).
+First, you choose from among the available human, dwarf and elf civilizations or choose a retired adventurer once you have one.  All characters are currently associated to a human hamlet or town when they begin as those are the only ones that have fleshed-out sites.  New adventurers also pick a status from among peasant, hero and demigod.  The only effect of this status is to determine how powerful your character is at the beginning of the game.  The status will be indicated in your introduction in legends mode.
 [B]
-Otherwise, you can select a character by race and civilization.  It is easiest to get quests from human civilizations, so that might be the best to start.  It's quite likely that you'll die against your first opponent.  Think of it as playing the civilization, rather than playing an individual adventurer.  Each game becomes more interesting as your previous games are incorporated, so it is also recommended to play the same civilization a few times.
+Second, you need to select attributes and skills to improve.  Among skills, most of the mental ones have no use in adventure mode currently, but kinesthetic sense and spatial sense can be used in combat.  Fighter and Observer are useful skills for combat.  Fighter influences your aiming chances greatly, relatively to your opponent's skill.  Your weapon skill will determine your starting equipment.  In the final screen you can select a name and gender for yourself.
 [B]
-Skills are fairly self-explanatory, except for wrestling.  This skill helps with all aspects of unarmed combat, including dodging, so it's an important skill to take.  If you take wrestling at a level equal to or exceeding your top weapon skill, you might not start with a weapon.  Keep this in mind.  On the other hand, taking a high weapon skill and neglecting all the others means that your ability to parry is all that stands between you and serious injury.
+Unless your world was somehow catastrophically depopulated, you should start in a hamlet or town with many cottages.  Feel free to explore, but in order to give yourself some direction, you can talk ([IKEY:A_TALK]) to people to get information and recruit followers.  The number and quality of the people that will join you depends on your overall skill and reputation.  You can ask people in town for numerous tasks at a time, though you might want to avoid this to reduce clutter in your log.  If somebody refers you elsewhere for a task, you can still ask for tasks again to obtain any additional tasks that person is interested in mentioning.
 [B]
-If you start in a town, you can talk ([IKEY:A_TALK]) to people to get information and recruit followers.  The number and quality of the people that will join you depends on your overall skill.  If you talk to the mayor in the large building (or the leader in the large keep in some towns) you can get quests to structure your game if you like.  Or you can wander the wilderness.  If you ask people in town about surroundings, they'll let you know some places to go if anything is nearby.  These will appear on your travel map.
+Once you are ready to go, you can press [IKEY:A_TRAVEL] (in friendly locations).  This takes you to the travel map, where you can move more quickly to your destination.  View your adventurer log ([IKEY:A_LOG]) to help you locate sites you know about or to remind you of your tasks.  You cannot enter certain sites from the travel map.  Stop travel ([IKEY:A_END_TRAVEL]) from the outskirts to approach these places carefully.
 [B]
-Once you are ready to go, you can walk off the edge of the map or press [IKEY:A_TRAVEL] (in friendly locations).  The only "meaningful" thing to do now is seek out your old fortresses, caves and other locations, and clear them of adversaries.  The named opponents stay dead, and your fights in the wilderness influence the evil/savagery of the local area.  As development progresses, there will be more to do.  Consider this a demo.
+It is important to stay well-rested, but it is dangerous to sleep outside, especially at night.  Travel with others or obtain permission to sleep in cottages or castles for the night.  You do not currently need to eat or drink, though you may do so at your leisure.
 [B]
-View your adventurer log ([IKEY:A_LOG]) to help you locate sites you know about or to remind you of your tasks.
+If you cannot make use of the objects you find, remember that you can still sell them at towns and obtain more useful ones there.  There are many currencies in use in the world, and you may find that you have to trade in some types of coins as regular objects.  This devalues them significantly at this time.
 [B]
-Remember to check the key bindings to see a list of your options.
+Remember to check the key bindings to see a list of your options.  There are many commands that were not described here.
 [B]
 [LINK:data/help/a_keys]Key Bindings[/LINK]

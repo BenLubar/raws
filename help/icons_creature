@@ -9,7 +9,7 @@ icons_creature
 [C:6:0:1]C[C:7:0:0] Cougar[R]
 [C:6:0:0]d[C:7:0:0] Deer[R]
 [C:7:0:0]d[C:7:0:0] Dog[R]
-[C:2:0:1]E[C:7:0:0] Elf[R]
+[C:2:0:1]e[C:7:0:0] Elf[R]
 [C:4:0:0]f[C:7:0:0] Fox[R]
 [C:7:0:0]g[C:7:0:0] Goblin[R]
 [C:6:0:0]k[C:7:0:0] Kobold[R]

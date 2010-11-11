@@ -13,15 +13,17 @@ Here are the keys you can use to control your adventurer.
 [IKEY:CURSOR_DOWNLEFT]
 [IKEY:CURSOR_DOWNRIGHT]
 [IKEY:CURSOR_UP_Z]
-[IKEY:CURSOR_DOWN_Z] - Move.
+[IKEY:CURSOR_DOWN_Z] - Move/attack.
+[B]
+[IKEY:A_MOVE_SAME_SQUARE] - Attack same square.
 [B]
 [IKEY:A_WAIT] - Wait for a step.
 [B]
-[IKEY:LEAVESCREEN] - Advance/clear messages.
+[IKEY:SELECT] - Advance/clear messages.
 [B]
 [IKEY:A_ANNOUNCEMENTS] - View announcements.
 [B]
-[IKEY:A_COMBAT] - Combat preferences.
+[IKEY:A_COMPANIONS] - View companions.
 [B]
 [IKEY:A_INV_DROP] - Drop an item.
 [B]
@@ -47,6 +49,8 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_BUILDING] - Interact with a building, furniture or mechanism.
 [B]
+[IKEY:A_CENTER] - Center screen on yourself.
+[B]
 [IKEY:A_INV_WEAR] - Wear an item.
 [B]
 [IKEY:A_ACTION] - Create an object or butcher a corpse.
@@ -54,9 +58,9 @@ Here are the keys you can use to control your adventurer.
 [IKEY:A_STATUS] - Status.
 [B]
 [B]
-[IKEY:A_ATTACK] - Attack an adjacent creature.  Change mode to wrestle.
+[IKEY:A_ATTACK] - Aim an attack/wrestle.
 [B]
-[IKEY:A_CENTER] - Center screen on yourself.
+[IKEY:A_COMBAT] - Combat preferences.
 [B]
 [IKEY:A_DATE] - Date/time.
 [B]
@@ -74,7 +78,7 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_WEATHER] - Weather.
 [B]
-[IKEY:A_SLEEP] - Sleep.
+[IKEY:A_SLEEP] - Sleep/wait.
 [B]
 [B][B]
 [C:7:0:1]Travel Keys:[C:7:0:0]
@@ -92,4 +96,10 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_TRAVEL_CLOUDS] - Start/stop cloud viewing.
 [B]
+[IKEY:A_TRAVEL_HIDE_INSTRUCTIONS] - Display/hide instructions.
+[B]
+[IKEY:A_TRAVEL_MAP] - Display/hide map.
+[B]
 [IKEY:A_TRAVEL_LOG] - Adventure log.
+[B]
+[IKEY:A_TRAVEL_SLEEP] - Sleep/wait.

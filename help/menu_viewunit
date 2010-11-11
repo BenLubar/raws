@@ -30,4 +30,5 @@ You can see the creature's body status here.  As the creature becomes more injur
 [B]
 Creatures do not have a "life rating", although they can bleed to death.  Small creatures have difficulty injuring larger creatures.
 [B]
-Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.  Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back.
+Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.
+Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back.

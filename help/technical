@@ -10,7 +10,8 @@ See command_line.txt for information on world generation from command lines.
 [B]
 (2) When you want to reuse it, copy that region back to "data/save".  Do *NOT* overwrite an old folder, as it might leave residual files.
 [B]
-Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game is also an alpha, and your world might become corrupted by an error.  You can also make use of the auto save features settable in "data/init/init.txt".
+Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game
+is also in development, and your world might become corrupted by an error.  You can also make use of the auto save features settable in "data/init/init.txt".
 [B][B]
 [C:7:0:1]TO USE OLD SAVES WHEN UPDATING VERSIONS:[C:7:0:0]
 [B]
