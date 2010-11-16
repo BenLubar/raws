@@ -4,7 +4,7 @@ See readme.txt for the license.
 See file_changes.txt for new init/interface information.
 See command_line.txt for information on world generation from command lines.
 [B][B]
-[C:7:0:1]TO BACKUP SAVES:[C:7:0:0]
+[C:7:0:1]TO BACK UP SAVES:[C:7:0:0]
 [B]
 (1) Copy the relevant region folder in "data/save" to a safe location.
 [B]
