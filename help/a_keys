@@ -4,16 +4,22 @@ Here are the keys you can use to control your adventurer.
 [B][B]
 [C:7:0:1]Main Keys:[C:7:0:0]
 [B]
-[IKEY:CURSOR_UP]
-[IKEY:CURSOR_DOWN]
-[IKEY:CURSOR_LEFT]
-[IKEY:CURSOR_RIGHT]
-[IKEY:CURSOR_UPLEFT]
-[IKEY:CURSOR_UPRIGHT]
-[IKEY:CURSOR_DOWNLEFT]
-[IKEY:CURSOR_DOWNRIGHT]
-[IKEY:CURSOR_UP_Z]
-[IKEY:CURSOR_DOWN_Z] - Move/attack.
+[IKEY:A_MOVE_S]
+[IKEY:A_MOVE_N]
+[IKEY:A_MOVE_W]
+[IKEY:A_MOVE_E]
+[IKEY:A_MOVE_NW]
+[IKEY:A_MOVE_NE]
+[IKEY:A_MOVE_SW]
+[IKEY:A_MOVE_SE]
+[IKEY:A_MOVE_UP_AUX]
+[IKEY:A_MOVE_DOWN_AUX] - Move/attack.
+[B]
+[IKEY:A_MOVE_S_UP] etc. - Move/attack up.
+[B]
+[IKEY:A_MOVE_S_DOWN] etc. - Move/attack down.
+[B]
+[IKEY:A_CARE_MOVE_S] etc. - Move carefully (for entering water, jumping off cliffs).
 [B]
 [IKEY:A_MOVE_SAME_SQUARE] - Attack same square.
 [B]
@@ -83,8 +89,8 @@ Here are the keys you can use to control your adventurer.
 [B][B]
 [C:7:0:1]Travel Keys:[C:7:0:0]
 [B]
-[IKEY:CURSOR_UP]
 [IKEY:CURSOR_DOWN]
+[IKEY:CURSOR_UP]
 [IKEY:CURSOR_LEFT]
 [IKEY:CURSOR_RIGHT]
 [IKEY:CURSOR_UPLEFT]
