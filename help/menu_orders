@@ -10,10 +10,6 @@ Press [IKEY:D_ORDERS] from the main view.
 Here you'll find a number of options that govern the behavior of your dwarves.
 The descriptions of each follow.
 [B][B]
-[C:7:0:1]Outdoors[C:7:0:0]
-[B]
-You can determine which dwarves are allowed to go beyond the cliff face into the wilds.
-[B][B]
 [C:7:0:1]Cancellation Announcements[C:7:0:0]
 [B]
 The game announces when jobs fail, unless you don't want to hear about it.
@@ -36,9 +32,13 @@ If you'd like to temporarily stop your dwarves from considering furniture haul j
 [B]
 If you'd like to temporarily stop your dwarves from considering burial haul jobs, do it here.
 [B][B]
-[C:7:0:1]Set Refuse Orders[C:7:0:0]
+[C:7:0:1]Refuse[C:7:0:0]
 [B]
 Here you can set refuse orders, with a few categories.
+[B][B]
+[C:7:0:1]Forbid[C:7:0:0]
+[B]
+This lets you stop certain items from being used by dwarves (such as items dropped by dying opponents).
 [B][B]
 [C:7:0:1]Gather Minerals[C:7:0:0]
 [B]
@@ -57,3 +57,11 @@ you have the situation under control, you can set only your farmers to harvest.
 [B]
 By default, dwarves will put all meats in a "meat barrel" and all plants in a "plant barrel", for example.  If
 you'd like them to separate foods out more specifically, you can do that here.
+[B][B]
+[C:7:0:1]Workshop Orders[C:7:0:0]
+[B]
+Here you can set some of your workshops to be automated.
+[B][B]
+[C:7:0:1]Activity Zone Orders[C:7:0:0]
+[B]
+Here you can restrict drinking and fishing to your activity zones.

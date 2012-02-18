@@ -3,6 +3,7 @@ building_clutter
 When viewing building tasks or items, the amount of clutter is displayed at the top right of the menu.  Clutter is caused by items in the building.
 [B]
 Building clutter slows tasks:
+[B]
 [C:0:0:1](CLT)[C:7:0:0] Work is slowed by two times.[R]
 [C:7:0:0](CLT)[C:7:0:0] Work is slowed by three times.[R]
 [C:7:0:1](CLT)[C:7:0:0] Work is slowed by four times.[R]

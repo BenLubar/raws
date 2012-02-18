@@ -11,7 +11,7 @@ In order to make crafts, you need the following:
 [B]
 [C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible workshop
 [B]
-[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible materials
+[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible material
 [C:7:0:0]
 [B]
 For technical help with these matters, follow these links:
@@ -94,6 +94,5 @@ You can also substitute sand for rock crystal in the clear glass recipe to make 
 [C:7:0:1]Soap[C:7:0:0]
 [B]
 Soap is a fairly valuable commodity, but its creation is somewhat involved.
-First, you need to create an alchemist's lab.  Read about clear glass above to figure out how to make the glass vials you'll need
-for the lab.  Once you have the lab, lye and some rendered fat, you can produce soap.  The value of soap depends on the creature.
+You need to create a soap maker's workshop, as well as lye and some rendered fat.  The value of soap depends on the creature.
 Unrotten fat can be rendered in the kitchen.

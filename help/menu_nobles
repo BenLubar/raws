@@ -22,7 +22,7 @@ On the right, you'll see three categories, which will now be described.
 [B]
 Nobles have required rooms and furniture.  The color of [[REQUIREMENT]] refers to the state of the requirements:
 [B]
-[C:7:0:1][[REQUIREMENT]][C:7:0:0] All requirement met.[R]
+[C:7:0:1][[REQUIREMENT]][C:7:0:0] All requirements met.[R]
 [C:6:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is only partially met.[R]
 [C:4:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is being completely ignored.[R]
 [C:0:0:1][[REQUIREMENT]][C:7:0:0] No requirements.[R]
