@@ -35,17 +35,27 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_INV_EATDRINK] - Eat or drink something.
 [B]
+[IKEY:A_SHOOT] - Fire a projectile.
+[B]
 [IKEY:A_GROUND] - Pick up an item.
 [B]
-[IKEY:A_SHOOT] - Fire a projectile.
+[IKEY:A_HOLD] - Hold or hang from something (to climb).
 [B]
 [IKEY:A_INV_LOOK] - Inventory.
 [B]
-[IKEY:A_LOOK] - Look around.
+[IKEY:A_JUMP] - Jump.  Sprint in movement options to run and jump.
 [B]
 [IKEY:A_TALK] - Talk to somebody.
 [B]
+[IKEY:A_LOOK] - Look around.
+[B]
+[IKEY:A_MOVEMENT] - Movement options.
+[B]
+[IKEY:A_ODOR] - Show strongest odor.
+[B]
 [IKEY:A_INV_PUTIN] - Put an item in a container.
+[B]
+[IKEY:A_INV_DRAW_WEAPON] - Draw/put away weapon.
 [B]
 [IKEY:A_INV_REMOVE] - Remove an item you are wearing or from a container.
 [B]
@@ -53,13 +63,15 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_THROW] - Throw an item.
 [B]
-[IKEY:A_BUILDING] - Interact with a building, furniture or mechanism.
+[IKEY:A_BUILDING] - Interact with a building, furniture, vehicle or mechanism.
 [B]
 [IKEY:A_CENTER] - Center screen on yourself.
 [B]
 [IKEY:A_INV_WEAR] - Wear an item.
 [B]
 [IKEY:A_ACTION] - Create an object or butcher a corpse.
+[B]
+[IKEY:A_YIELD] - Yield.
 [B]
 [IKEY:A_STATUS] - Status.
 [B]
@@ -72,13 +84,19 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_INTERACT] - Interact with an object in an advanced way.
 [B]
+[IKEY:A_DISPLAY_TRACKS] - Display all nearby tracks.
+[B]
+[IKEY:A_FRESHEST_TRACK] - Display information for freshest track.
+[B]
 [IKEY:A_SEARCH] - Search the nearby area very carefully.
+[B]
+[IKEY:A_DISPLAY_ODOR] - Display odor information.
 [B]
 [IKEY:A_TEMPERATURE] - Temperature.
 [B]
-[IKEY:A_LOG] - Adventure log (tasks, map, etc.).
+[IKEY:A_LOG] - Adventure log/information.
 [B]
-[IKEY:A_SNEAK] - Sneak.
+[IKEY:A_SPEED_SNEAK] - Sneak/speed.
 [B]
 [IKEY:A_TRAVEL] - Travel.
 [B]
@@ -98,14 +116,21 @@ Here are the keys you can use to control your adventurer.
 [IKEY:CURSOR_DOWNLEFT]
 [IKEY:CURSOR_DOWNRIGHT] - Move.
 [B]
-[IKEY:A_END_TRAVEL] - Visit location.
+[IKEY:CURSOR_UP_Z]
+[IKEY:CURSOR_DOWN_Z] - Move into/out of tunnel.
 [B]
 [IKEY:A_TRAVEL_CLOUDS] - Start/stop cloud viewing.
+[B]
+[IKEY:A_END_TRAVEL] - Visit location.
 [B]
 [IKEY:A_TRAVEL_HIDE_INSTRUCTIONS] - Display/hide instructions.
 [B]
 [IKEY:A_TRAVEL_MAP] - Display/hide map.
 [B]
-[IKEY:A_TRAVEL_LOG] - Adventure log.
+[IKEY:A_SNEAK] - Sneak.
+[B]
+[IKEY:A_DISPLAY_TRACKS] - Display all nearby tracks and strongest odor.
+[B]
+[IKEY:A_TRAVEL_LOG] - Adventure log/information.
 [B]
 [IKEY:A_TRAVEL_SLEEP] - Sleep/wait.
