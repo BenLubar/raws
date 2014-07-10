@@ -23,7 +23,9 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_MOVE_SAME_SQUARE] - Attack same square.
 [B]
-[IKEY:A_WAIT] - Wait for a step.
+[IKEY:A_WAIT] - Wait for ten instants (a normal step).
+[R]
+[IKEY:A_SHORT_WAIT] - Wait for one instant.
 [B]
 [IKEY:SELECT] - Advance/clear messages.
 [B]
