@@ -13,6 +13,7 @@ The contents of the closest building are displayed, along with instructions on h
 order the removal of the building.  You can also view the progress of building construction from this menu.
 [B]
 Depending on the building, some special symbols can appear to give you more information.
+[B]
 [C:3:0:1]TSK[C:7:0:0] A task is associated to this object.[R]
 [C:7:0:1][[B]][C:7:0:0] The object is part of the building.[R]
 [C:6:0:1][[T]][C:7:0:0] The object is a trade good.[R]
