@@ -1,22 +1,22 @@
 index
-1~data\help\icons
-2~data\announcement\diplomatrebuffed
-3~data\announcement\merchantintro
-4~data\announcement\semiend
-5~data\announcement\invasion_elves
-6~data\announcement\hastyking
-7~data\announcement\kingarrival
-8~data\announcement\invasion_goblin
-9~data\announcement\invasion_human
-10~data\announcement\merchantexit
-11~data\announcement\fortressintro
-12~data\help\main
+1~data/help/icons
+2~data/announcement/diplomatrebuffed
+3~data/announcement/merchantintro
+4~data/announcement/semiend
+5~data/announcement/invasion_elves
+6~data/announcement/hastyking
+7~data/announcement/kingarrival
+8~data/announcement/invasion_goblin
+9~data/announcement/invasion_human
+10~data/announcement/merchantexit
+11~data/announcement/fortressintro
+12~data/help/main
 13~ELVES_FIRSTCONTACT
 14~HUMAN_STANDARD
 15~DWARF_LIAISON
 16~HUMAN_TRADE
 17~ELVES_STANDARD
-18~v0.40.05
+18~v0.40.06
 19~
 20~Programmed by Tarn Adams
 21~Designed by Tarn and Zach Adams
@@ -24,18 +24,18 @@ index
 23~www.bay12games.com
 24~Dwarf Fortress
 25~Adventurer
-26~data\announcement\end2
-27~data\announcement\end3
-28~data\announcement\end4
-29~data\save\permits
-30~data\help\a_main
+26~data/announcement/end2
+27~data/announcement/end3
+28~data/announcement/end4
+29~data/save/permits
+30~data/help/a_main
 31~Legends
 32~Reclaim Fortress
-33~data\help\r_main
-34~data\initial_movies\bay12games.cmv
-35~data\initial_movies\toadyone.cmv
-36~data\initial_movies\dwarf_fortress.cmv
-37~data\movies\last_record.cmv
+33~data/help/r_main
+34~data/initial_movies/bay12games.cmv
+35~data/initial_movies/toadyone.cmv
+36~data/initial_movies/dwarf_fortress.cmv
+37~data/movies/last_record.cmv
 38~Really?  You're playing like a peasant.
 39~Really?  I thought you should quit.
 40~Slaves to Armok:  God of Blood
@@ -47,8 +47,8 @@ index
 46~Report crashes, hangs, lags, bugs and general disappointment at the forums.
 47~They are at our website, bay12games.com.  Check there for updates.
 48~You can also find an older yet more stable version of the game there.
-49~As of July 2014, you can get help at the fan-created dwarffortresswiki.org.
+49~As of August 2014, you can get help at the fan-created dwarffortresswiki.org.
 50~Please make use of and contribute to this valuable resource.
 51~If you enjoy the game, please consider supporting Bay 12 Games.
 52~There is more information at our web site and in the readme file.
-53~data\announcement\end5
+53~data/announcement/end5
