@@ -31,7 +31,7 @@ In order to fish you need:
 [B]
 Fish need to be cleaned after you catch them.  You'll need to construct a fishery to do this.
 [B]
-For technical help with these matters, follow this link:
+For technical help with these matters, follow these links:
 [B]
 [LINK:data/help/menu_professions]Setting Professions[/LINK]
 [LINK:data/help/menu_activity_zones]Activity Zones[/LINK]
@@ -44,7 +44,7 @@ In order to hunt you need:
 [C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Hunting profession, preferably armed with a ranged weapon
 [C:7:0:0]
 [B]
-For technical help with these matters, follow these links:
+For technical help with these matters, follow this link:
 [B]
 [LINK:data/help/menu_professions]Setting Professions[/LINK]
 [B][B]
@@ -75,7 +75,7 @@ To get started, you must place a farm plot.  You can place a farm plot on soil o
 Dwarves with the Farming (Fields) profession will plant seeds according to your selections in the farm plot menu, and all dwarves help with the harvest.  A plant will generally grow either inside or outside, so be careful with the seeds you select.
 [B]
 Should you find a water source, you can divert the water using channels and floodgates to control
-which squares become muddy (all water currently place mud).
+which squares become muddy (all water currently places mud).
 [B]
 Some plants that you farm aren't immediately edible, but can be processed at a mill or farmer's workshop to make
 flour, sugar, syrup, spices or thread for cloth-making.
