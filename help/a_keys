@@ -29,6 +29,9 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:SELECT] - Advance/clear messages.
 [B]
+[IKEY:CHANGETAB] - Change to another party member.
+[B]
+[B]
 [IKEY:A_ANNOUNCEMENTS] - View announcements.
 [B]
 [IKEY:A_CONSTRUCTION] - Found a site and build.
@@ -43,7 +46,7 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_GROUND] - Pick up an item.
 [B]
-[IKEY:A_HOLD] - Hold or hang from something (to climb).
+[IKEY:A_HOLD] - Hold or hang from something (to climb).  Mount/dismount/lead/claim pet.
 [B]
 [IKEY:A_INV_LOOK] - Inventory.
 [B]
@@ -57,7 +60,7 @@ Here are the keys you can use to control your adventurer.
 [B]
 [IKEY:A_ODOR] - Show strongest odor.
 [B]
-[IKEY:A_INV_PUTIN] - Put an item in a container.
+[IKEY:A_INV_PUTIN] - Put an item in a container, place an item on or in furniture, or pack an item on a pack animal.
 [B]
 [IKEY:A_INV_DRAW_WEAPON] - Draw/put away weapon.
 [B]
@@ -85,6 +88,8 @@ Here are the keys you can use to control your adventurer.
 [IKEY:A_COMBAT] - Combat preferences.
 [B]
 [IKEY:A_DATE] - Date/time.
+[B]
+[IKEY:A_TACTICAL_SETTINGS] - Party tactical settings.
 [B]
 [IKEY:A_INTERACT] - Interact with an object in an advanced way.
 [B]
